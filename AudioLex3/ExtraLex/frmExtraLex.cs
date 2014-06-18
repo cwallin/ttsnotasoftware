@@ -45,6 +45,15 @@ namespace ExtraLex
             txtSuggestion.Focus();
         }
 
+        private void SmallTestSub()//Husk at fjerne igen
+        {
+            string X = "test";
+            if(X=="ff")
+            {
+                MessageBox.Show(X);
+            }
+        }
+
         private void PlaySampa(int SAMPAMode)
         {
             //SAMPAmode: 0=sampa, 1=suggestion
@@ -54,6 +63,8 @@ namespace ExtraLex
             string Spell = cmbSpell.Text;
             string Stress = cmbStress.Text;
             string SampaWord = "";
+
+            SmallTestSub();
 
             if(SAMPAMode==0)
             {
