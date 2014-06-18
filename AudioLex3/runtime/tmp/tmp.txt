@@ -1,0 +1,1 @@
+<speak><phoneme info="0_0_1_1_1_1_2_2_2_3_3_4_4_5_5 n_c_o_n_c_c_o_n_c_o_n_o_n_n_c da 0 NN_NEU_SIN_DEF_NOM 1" alphabet="SAMPA" ph="&quot;O N $ d 6 m s - k 6 m $ p a $ n %i:? $ @ D">ungdomskompagniet</phoneme></speak>

@@ -1,0 +1,1 @@
+C:\FilibusterDa\Filibuster1\filibusterCmd.tcl -lang da -mode batch -textfile {C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\AudioLex3\runtime\tmp\tmp.txt} -outdir {C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\AudioLex3\runtime\tmp} -rate 22050 -print_header DURATION

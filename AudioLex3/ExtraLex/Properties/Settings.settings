@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExtraLex.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FILIBUSTER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Filibuster1\filibusterCmd.tcl</Value>
+    </Setting>
+    <Setting Name="EXTRALEX_LOCATION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Filibuster1\da\Textprocessing\DanLists</Value>
+    </Setting>
+    <Setting Name="Dictionary_MainPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Danish\Dict\Main</Value>
+    </Setting>
+    <Setting Name="Dictionary_NamePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Danish\Dict\Name</Value>
+    </Setting>
+    <Setting Name="Dictionary_EnglishPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Danish\Dict\English</Value>
+    </Setting>
+    <Setting Name="Dictionary_Main" Type="System.String" Scope="User">
+      <Value Profile="(Default)">danDictMain.lex</Value>
+    </Setting>
+    <Setting Name="Dictionary_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">danDictName.lex</Value>
+    </Setting>
+    <Setting Name="Dictionary_English" Type="System.String" Scope="User">
+      <Value Profile="(Default)">danDictEnglishDANsampa.lex</Value>
+    </Setting>
+    <Setting Name="Dictionary_Extra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">danDictExtra.lex</Value>
+    </Setting>
+    <Setting Name="Dictionary_ExtraPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Filibuster1\da\Textprocessing\DanLists</Value>
+    </Setting>
+    <Setting Name="Dictionary_Acronyms" Type="System.String" Scope="User">
+      <Value Profile="(Default)">danAcronymList.txt</Value>
+    </Setting>
+    <Setting Name="Dictionary_Acronyms_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Filibuster1\da\Textprocessing\DanLists</Value>
+    </Setting>
+    <Setting Name="PerlPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\strawberry\perl\bin\perl.exe</Value>
+    </Setting>
+    <Setting Name="danTextProcPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Filibuster1\da\Textprocessing\danTextprocessing.pl</Value>
+    </Setting>
+    <Setting Name="AprovedListPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Filibuster1\da\Textprocessing\DanLists</Value>
+    </Setting>
+    <Setting Name="AprovedList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">whitelist.txt</Value>
+    </Setting>
+    <Setting Name="CheckList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Nota\AudioLex\CheckMe.txt</Value>
+    </Setting>
+    <Setting Name="CompleteList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\a_cwa lokal\Aktuelle projekter\Berlingske\List\CompleteList.txt</Value>
+    </Setting>
+    <Setting Name="CachedAudio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\a_cwa lokal\Aktuelle projekter\Berlingske\Cached</Value>
+    </Setting>
+    <Setting Name="TextFilter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TextFilter\TextFilter\TextFilterConfig\TextFilters.xml</Value>
+    </Setting>
+    <Setting Name="WishApp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wish85.exe</Value>
+    </Setting>
+    <Setting Name="DictionaryMultiWord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\FilibusterDa\Filibuster1\da\Textprocessing\DanLists\danMultiword.lex</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

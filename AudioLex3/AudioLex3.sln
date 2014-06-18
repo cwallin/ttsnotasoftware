@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioLex3", "ExtraLex\AudioLex3.csproj", "{BDD0DFF0-64A5-4353-AA12-4BA268A341DC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExtraLexInstaller", "ExtraLexInstaller\ExtraLexInstaller.vdproj", "{3098367E-487B-4BF2-BA16-D70FB39C7652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD0DFF0-64A5-4353-AA12-4BA268A341DC}.Debug|x86.ActiveCfg = Debug|x86
+		{BDD0DFF0-64A5-4353-AA12-4BA268A341DC}.Debug|x86.Build.0 = Debug|x86
+		{BDD0DFF0-64A5-4353-AA12-4BA268A341DC}.Release|x86.ActiveCfg = Release|x86
+		{BDD0DFF0-64A5-4353-AA12-4BA268A341DC}.Release|x86.Build.0 = Release|x86
+		{3098367E-487B-4BF2-BA16-D70FB39C7652}.Debug|x86.ActiveCfg = Debug
+		{3098367E-487B-4BF2-BA16-D70FB39C7652}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

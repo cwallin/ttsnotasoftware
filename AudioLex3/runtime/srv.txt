@@ -1,0 +1,8 @@
+TTS login med adgang til dcs shares  !TTSUser Tal10Lmig
+
+Hentning til Blizzard:
+ftp://blizzard:NI14NORD@ftp.nota.nu/berl/in/
+
+Aflevering fra Blizzard:
+ftp://blizzard:NI14NORD@ftp.nota.nu/berl/out/
+
