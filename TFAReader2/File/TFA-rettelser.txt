@@ -1,0 +1,266 @@
+main før:
+færing	f "E6 $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færing	spell:0	freq:	update:	orig:NSTX=107018|nst:27458	lemma:	id:049249
+færingen	f "E: $ R e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingen	spell:0	freq:	update:	orig:NSTX=107019|nst:50833	lemma:	id:049250
+færinger	f "E: $ R e N? $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færinger	spell:0	freq:	update:	orig:NSTX=107020|nst:7110	lemma:	id:049251
+færingerne	f "E: $ R e N? $ 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingerne	spell:0	freq:	update:	orig:NSTX=107021|nst:7111	lemma:	id:049252
+færingernes	f "E: $ R e N? $ 6 $ n @ s	NN UTR PLU DEF GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingernes	spell:0	freq:	update:	orig:NSTX=107022|nst:27459	lemma:	id:049253
+færingers	f "E: $ R e N? $ 6 s	NN UTR PLU IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingers	spell:0	freq:	update:	orig:NSTX=107023|nst:103446	lemma:	id:049254
+
+efter:
+færing	f "E6 $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færing	spell:0	freq:	update:	orig:NSTX=107018|nst:27458	lemma:	id:049249
+færingen	f "E6 $ e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingen	spell:0	freq:	update:	orig:NSTX=107019|nst:50833	lemma:	id:049250
+færinger	f "E6 $ e N? $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færinger	spell:0	freq:	update:	orig:NSTX=107020|nst:7110	lemma:	id:049251
+færingerne	f "E6 $ e N? $ 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingerne	spell:0	freq:	update:	orig:NSTX=107021|nst:7111	lemma:	id:049252
+færingernes	f "E6 $ e N? $ 6 $ n @ s	NN UTR PLU DEF GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingernes	spell:0	freq:	update:	orig:NSTX=107022|nst:27459	lemma:	id:049253
+færingers	f "E6 $ e N? $ 6 s	NN UTR PLU IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:færingers	spell:0	freq:	update:	orig:NSTX=107023|nst:103446	lemma:	id:049254
+
+name før:
+Thorasvej	t "o: $ A s - v %A j?	PM NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:Thoras+vej	spell:0	freq:-	update:1c|5a|8a	orig:50949|nst:234030	lemma:	id:340871
+Thoravej	t "o: $ A - v %A j?	PM NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:Thora+vej	spell:0	freq:-	update:1c|5a|8a	orig:50950|nst:234031	lemma:	id:340872
+
+Thorasvej	t "o: $ R A s - v %A j?	PM NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:Thoras+vej	spell:0	freq:-	update:1c|5a|8a	orig:50949|nst:234030	lemma:	id:340871
+Thoravej	t "o: $ R A - v %A j?	PM NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:Thora+vej	spell:0	freq:-	update:1c|5a|8a	orig:50950|nst:234031	lemma:	id:340872
+
+main før:
+sagsakt	s "A w s - %A g d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+akt	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186178|nst:214992	lemma:	id:127817
+sagsakter	s "A w s - %A g $ d 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+akter	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186179|nst:54670	lemma:	id:127818
+sagsakterne	s "A w s - %A g $ d 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+akterne	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186180|nst:96986	lemma:	id:127819
+sagsanlæg	s "A w s - a n ~ l %E:? g	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+an~læg	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186181|nst:17222	lemma:	id:127820
+sagsanlægget	s "A w s - a n ~ l %E:? $ g @ D	NN NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+an~lægget	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186182|nst:68928	lemma:	id:127821
+sagsbehandlende	s "A w s - b e $ h %a n? $ l @ $ n @	PC PRS UTR/NEU SIN/PLU IND/DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlende	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186183|nst:139341	lemma:	id:127822
+sagsbehandler	s "A w s - b e $ h %a n? $ l 6	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandler	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186184|nst:17223	lemma:	id:127823
+sagsbehandlere	s "A w s - b e $ h %a n? $ l 6 $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlere	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186185|nst:17224	lemma:	id:127824
+sagsbehandleren	s "A w s - b e $ h %a n? $ l 6 $ 6 n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandleren	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186186|nst:32412	lemma:	id:127825
+sagsbehandlerne	s "A w s - b e $ h %a n? $ l 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlerne	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186187|nst:40861	lemma:	id:127826
+sagsbehandlers	s "A w s - b e $ h %a n? $ l 6 s	NN UTR SIN IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlers	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186188|nst:155521	lemma:	id:127827
+sagsbehandling	s "A w s - b e $ h %a n? $ l e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandling	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186189|nst:17225	lemma:	id:127828
+sagsbehandlingen	s "A w s - b e $ h %a n? $ l e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlingen	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186190|nst:17226	lemma:	id:127829
+sagsbehandlingstid	s "A w s - b e $ h a n? $ l e N s - t %i D?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlings+tid	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186191|nst:47531	lemma:	id:127830
+sagsbehandlingstiden	s "A w s - b e $ h a n? $ l e N s - t %i D? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlings+tiden	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186192|nst:44458	lemma:	id:127831
+sagsbehandlingstider	s "A w s - b e $ h a n? $ l e N s - t %i: D $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlings+tider	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186193|nst:54671	lemma:	id:127832
+sagsforhold	s "A w s - f Q: ~ h %6 l?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+for~hold	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186194|nst:214993	lemma:	id:127833
+sagsforløb	s "A w s - f Q ~ l %2:? b	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+for~løb	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186195|nst:54672	lemma:	id:127834
+sagsforløbet	s "A w s - f Q ~ l %2:? $ b @ D	NN NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+for~løbet	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186196|nst:40862	lemma:	id:127835
+sagsfremstilling	s "A w s - f R E m - s d %e $ l e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+frem+stilling	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186197|nst:214994	lemma:	id:127836
+sagsgang	s "A w s - g %A N?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+gang	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186198|nst:139342	lemma:	id:127837
+sagsgangen	s "A w s - g %A N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+gangen	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186199|nst:96987	lemma:	id:127838
+sagsgangene	s "A w s - g %A N $ @ $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+gangene	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186200|nst:139343	lemma:	id:127839
+sagskomplekser	s "A w s - k 6 m $ p l %E g $ s 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+komplekser	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186201|nst:84748	lemma:	id:127840
+sagsmappe	s "A w s - m %A $ b @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mappe	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186202|nst:84749	lemma:	id:127841
+sagsmapper	s "A w s - m %A $ b 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mapper	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186203|nst:68929	lemma:	id:127842
+sagsmængde	s "A w s - m %E N? $ d @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mængde	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186204|nst:139344	lemma:	id:127843
+sagsmængden	s "A w s - m %E N? $ d @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mængden	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186205|nst:139345	lemma:	id:127844
+sagsomkostninger	s "A w s - 6 m ~ k %6 s d $ n e N? $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~kostninger	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186206|nst:32413	lemma:	id:127845
+sagsomkostningerne	s "A w s - 6 m ~ k %6 s d $ n e N? $ 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~kostningerne	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186207|nst:68930	lemma:	id:127846
+sagsområde	s "A w s - 6 m ~ R %O: D $ @	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~råde	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186208|nst:96988	lemma:	id:127847
+sagsområder	s "A w s - 6 m ~ R %O: D $ 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~råder	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186209|nst:68931	lemma:	id:127848
+sagspolitikken	s "A w s - p o $ l i $ t %i $ g @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+politikken	spell:0	freq:	update:2a|STTS_20110509_1z_comp	orig:NSTX=186210|nst:139346	lemma:	id:127849
+sagspukkel	s "A w s - p %O $ g @ l	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+pukkel	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186211|nst:139347	lemma:	id:127850
+sagsregister	s "A w s - R e $ g %i $ s d 6	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+register	spell:0	freq:	update:2a|STTS_20110509_1z_comp	orig:NSTX=186212|nst:149775	lemma:	id:127851
+sagstyper	s "A w s - t %y: $ b 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+typer	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186213|nst:124782	lemma:	id:127852
+
+main efter:
+sagsakt	s "a:? s - %A g d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+akt	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186178|nst:214992	lemma:	id:127817
+sagsakter	s "a:? s - %A g $ d 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+akter	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186179|nst:54670	lemma:	id:127818
+sagsakterne	s "a:? s - %A g $ d 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+akterne	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186180|nst:96986	lemma:	id:127819
+sagsanlæg	s "a:? s - a n ~ l %E:? g	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+an~læg	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186181|nst:17222	lemma:	id:127820
+sagsanlægget	s "a:? s - a n ~ l %E:? $ g @ D	NN NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+an~lægget	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186182|nst:68928	lemma:	id:127821
+sagsbehandlende	s "a:? s - b e $ h %a n? $ l @ $ n @	PC PRS UTR/NEU SIN/PLU IND/DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlende	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186183|nst:139341	lemma:	id:127822
+sagsbehandler	s "a:? s - b e $ h %a n? $ l 6	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandler	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186184|nst:17223	lemma:	id:127823
+sagsbehandlere	s "a:? s - b e $ h %a n? $ l 6 $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlere	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186185|nst:17224	lemma:	id:127824
+sagsbehandleren	s "a:? s - b e $ h %a n? $ l 6 $ 6 n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandleren	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186186|nst:32412	lemma:	id:127825
+sagsbehandlerne	s "a:? s - b e $ h %a n? $ l 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlerne	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186187|nst:40861	lemma:	id:127826
+sagsbehandlers	s "a:? s - b e $ h %a n? $ l 6 s	NN UTR SIN IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlers	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186188|nst:155521	lemma:	id:127827
+sagsbehandling	s "a:? s - b e $ h %a n? $ l e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandling	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186189|nst:17225	lemma:	id:127828
+sagsbehandlingen	s "a:? s - b e $ h %a n? $ l e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlingen	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186190|nst:17226	lemma:	id:127829
+sagsbehandlingstid	s "a:? s - b e $ h a n? $ l e N s - t %i D?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlings+tid	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186191|nst:47531	lemma:	id:127830
+sagsbehandlingstiden	s "a:? s - b e $ h a n? $ l e N s - t %i D? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlings+tiden	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186192|nst:44458	lemma:	id:127831
+sagsbehandlingstider	s "a:? s - b e $ h a n? $ l e N s - t %i: D $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+behandlings+tider	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186193|nst:54671	lemma:	id:127832
+sagsforhold	s "a:? s - f Q: ~ h %6 l?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+for~hold	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186194|nst:214993	lemma:	id:127833
+sagsforløb	s "a:? s - f Q ~ l %2:? b	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+for~løb	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186195|nst:54672	lemma:	id:127834
+sagsforløbet	s "a:? s - f Q ~ l %2:? $ b @ D	NN NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+for~løbet	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186196|nst:40862	lemma:	id:127835
+sagsfremstilling	s "a:? s - f R E m - s d %e $ l e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+frem+stilling	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186197|nst:214994	lemma:	id:127836
+sagsgang	s "a:? s - g %A N?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+gang	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186198|nst:139342	lemma:	id:127837
+sagsgangen	s "a:? s - g %A N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+gangen	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186199|nst:96987	lemma:	id:127838
+sagsgangene	s "a:? s - g %A N $ @ $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+gangene	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186200|nst:139343	lemma:	id:127839
+sagskomplekser	s "a:? s - k 6 m $ p l %E g $ s 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+komplekser	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186201|nst:84748	lemma:	id:127840
+sagsmappe	s "a:? s - m %A $ b @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mappe	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186202|nst:84749	lemma:	id:127841
+sagsmapper	s "a:? s - m %A $ b 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mapper	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186203|nst:68929	lemma:	id:127842
+sagsmængde	s "a:? s - m %E N? $ d @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mængde	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186204|nst:139344	lemma:	id:127843
+sagsmængden	s "a:? s - m %E N? $ d @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+mængden	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186205|nst:139345	lemma:	id:127844
+sagsomkostninger	s "a:? s - 6 m ~ k %6 s d $ n e N? $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~kostninger	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186206|nst:32413	lemma:	id:127845
+sagsomkostningerne	s "a:? s - 6 m ~ k %6 s d $ n e N? $ 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~kostningerne	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186207|nst:68930	lemma:	id:127846
+sagsområde	s "a:? s - 6 m ~ R %O: D $ @	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~råde	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=186208|nst:96988	lemma:	id:127847
+sagsområder	s "a:? s - 6 m ~ R %O: D $ 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+om~råder	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186209|nst:68931	lemma:	id:127848
+sagspolitikken	s "a:? s - p o $ l i $ t %i $ g @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+politikken	spell:0	freq:	update:2a|STTS_20110509_1z_comp	orig:NSTX=186210|nst:139346	lemma:	id:127849
+sagspukkel	s "a:? s - p %O $ g @ l	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+pukkel	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186211|nst:139347	lemma:	id:127850
+sagsregister	s "a:? s - R e $ g %i $ s d 6	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+register	spell:0	freq:	update:2a|STTS_20110509_1z_comp	orig:NSTX=186212|nst:149775	lemma:	id:127851
+sagstyper	s "a:? s - t %y: $ b 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sags+typer	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=186213|nst:124782	lemma:	id:127852
+
+før:
+fejekost	f "A $ j @ - k %6 s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:feje+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=93478|nst:195298	lemma:	id:035770
+efter:
+fejekost	f "A $ j @ - k %O s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:feje+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=93478|nst:195298	lemma:	id:035770
+
+før:
+hvidtekost	v "i $ d @ - k %6 s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:hvidte+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=120399|nst:200666	lemma:	id:062536
+efter:
+hvidtekost	v "i $ d @ - k %O s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:hvidte+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=120399|nst:200666	lemma:	id:062536
+
+før:
+barberkost	b A $ b "e6? - k %6 s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:barber+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=67508|nst:113851	lemma:	id:010033
+efter:
+barberkost	b A $ b "e6? - k %O s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:barber+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=67508|nst:113851	lemma:	id:010033
+
+før:
+blomsterkost	b l "6 m? $ s d 6 - k %6 s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:blomster+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=73118|nst:190847	lemma:	id:015604
+efter:
+blomsterkost	b l "6 m? $ s d 6 - k %O s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:blomster+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=73118|nst:190847	lemma:	id:015604
+
+før:
+støvekost	s d "2: $ v @ - k %6 s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:støve+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=205702|nst:219189	lemma:	id:147239
+efter:
+støvekost	s d "2: $ v @ - k %O s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:støve+kost	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=205702|nst:219189	lemma:	id:147239
+
+før:
+tjærekost	t j "E: $ 6 - k %6 s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tjære+kost	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=214450|nst:221192	lemma:	id:155938
+efter:
+tjærekost	t j "E: $ 6 - k %O s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tjære+kost	spell:0	freq:	update:20a|STTS_20110509_1z_comp	orig:NSTX=214450|nst:221192	lemma:	id:155938
+
+
+før:
+afbilledet	"A w ~ b %e $ l @ D $ @ D	NN NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:af~billedet	spell:0	freq:	update:	orig:NSTX=58243|nst:57226	lemma:	id:000814
+billedet	b "e $ l e D $ @ D	NN NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:billedet	spell:0	freq:	update:	orig:NSTX=71553|nst:2343	lemma:	id:014061
+
+
+før:
+diagrammatisk	d i $ A $ g R A $ m "a:? $ d i s g	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diagrammatisk	spell:0	freq:	update:	orig:NSTX=83210|nst:193130	lemma:	id:025608
+diakoni	d i $ A $ k o $ n "i:?	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakoni	spell:0	freq:	update:	orig:NSTX=83216|nst:193131	lemma:	id:025614
+diakonisse	d i $ A $ k o $ n "i $ s @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakonisse	spell:0	freq:	update:	orig:NSTX=83217|nst:193132	lemma:	id:025615
+diakonissestiftelse	d i $ A $ k o $ n "i $ s @ - s d %e f $ d @ l $ s @	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakonisse+stiftelse	spell:0	freq:	update:2a	orig:NSTX=83218|nst:193133	lemma:	id:025616
+diakonissestiftelsens	d i $ A $ k o $ n "i $ s @ - s d %e f $ d @ l $ s @ n s	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakonisse+stiftelsens	spell:0	freq:	update:2a	orig:NSTX=83219|nst:75510	lemma:	id:025617
+diakritisk	d i $ A $ k R "i $ d i s g	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakritisk	spell:0	freq:	update:	orig:NSTX=83220|nst:193134	lemma:	id:025618
+diakroni	d i $ A $ k R o $ n "i:?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakroni	spell:0	freq:	update:	orig:NSTX=83221|nst:193135	lemma:	id:025619
+diakronisk	d i $ A $ k R "o:? $ n i s g	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakronisk	spell:0	freq:	update:	orig:NSTX=83222|nst:193136	lemma:	id:025620
+
+diagrammatisk	d i $ a $ g R A $ m "a:? $ d i s g	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diagrammatisk	spell:0	freq:	update:	orig:NSTX=83210|nst:193130	lemma:	id:025608
+diakonhøjskolen	d i $ a $ k "o:? n - h 6 j - s g %o: $ l @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakon+høj+skolen	spell:0	freq:	update:2a	orig:NSTX=83215|nst:101739	lemma:	id:025613
+diakoni	d i $ a $ k o $ n "i:?	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakoni	spell:0	freq:	update:	orig:NSTX=83216|nst:193131	lemma:	id:025614
+diakonisse	d i $ a $ g o $ n "i $ s @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakonisse	spell:0	freq:	update:	orig:NSTX=83217|nst:193132	lemma:	id:025615
+diakonissestiftelse	d i $ a $ g o $ n "i $ s @ - s d %e f $ d @ l $ s @	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakonisse+stiftelse	spell:0	freq:	update:2a	orig:NSTX=83218|nst:193133	lemma:	id:025616
+diakonissestiftelsens	d i $ a $ g o $ n "i $ s @ - s d %e f $ d @ l $ s @ n s	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakonisse+stiftelsens	spell:0	freq:	update:2a	orig:NSTX=83219|nst:75510	lemma:	id:025617
+diakritisk	d i $ a $ k R "i $ d i s g	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakritisk	spell:0	freq:	update:	orig:NSTX=83220|nst:193134	lemma:	id:025618
+diakroni	d i $ a $ k R o $ n "i:?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakroni	spell:0	freq:	update:	orig:NSTX=83221|nst:193135	lemma:	id:025619
+diakronisk	d i $ a $ k R "o:? $ n i s g	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:diakronisk	spell:0	freq:	update:	orig:NSTX=83222|nst:193136	lemma:	id:025620
+
+før:
+aura	"A w $ R a	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:aura	spell:0	freq:	update:	orig:NSTX=65889|nst:1291	lemma:	id:008426
+efter:
+aura	"A w $ R A	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:aura	spell:0	freq:	update:	orig:NSTX=65889|nst:1291	lemma:	id:008426
+
+
+
+
+Før: ori = Q i, 6 i, Q j, o6 i - ikke konsekvent overhovedet. Jeg har kun rettet ordet "orientering" i ordbogen.
+Search "orientering" (48 hits in 1 file)
+  C:\FilibusterDa\Danish\Dict\Main\danDictMain.lex (48 hits)
+	Line 23375: desorientering	d "e s ~ Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:des~orientering	spell:0	freq:	update:	orig:NSTX=82922|nst:75479	lemma:	id:025326
+	Line 23375: desorientering	d "e s ~ Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:des~orientering	spell:0	freq:	update:	orig:NSTX=82922|nst:75479	lemma:	id:025326
+	Line 37592: forbrugerorientering	f Q ~ b R "u:? $ 6 - Q $ i $ @ n $ t %e6? $ e N	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:for~bruger+orientering	spell:0	freq:	update:2a	orig:NSTX=98389|nst:196258	lemma:	id:040647
+	Line 37592: forbrugerorientering	f Q ~ b R "u:? $ 6 - Q $ i $ @ n $ t %e6? $ e N	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:for~bruger+orientering	spell:0	freq:	update:2a	orig:NSTX=98389|nst:196258	lemma:	id:040647
+	Line 89264: miljøorientering	m i l $ j "2 - Q $ i $ @ n $ t %e6? $ e N	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:miljø+orientering	spell:0	freq:	update:2a	orig:NSTX=154655|nst:122024	lemma:	id:096541
+	Line 89264: miljøorientering	m i l $ j "2 - Q $ i $ @ n $ t %e6? $ e N	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:miljø+orientering	spell:0	freq:	update:2a	orig:NSTX=154655|nst:122024	lemma:	id:096541
+	Line 96582: nyorientering	n "y: - Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:ny+orientering	spell:0	freq:	update:20a	orig:NSTX=162635|nst:66838	lemma:	id:104463
+	Line 96582: nyorientering	n "y: - Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:ny+orientering	spell:0	freq:	update:20a	orig:NSTX=162635|nst:66838	lemma:	id:104463
+	Line 101079: orientering	Q $ i $ @ n $ t "e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientering	spell:0	freq:	update:	orig:NSTX=167686|nst:14796	lemma:	id:109469
+	Line 101079: orientering	Q $ i $ @ n $ t "e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientering	spell:0	freq:	update:	orig:NSTX=167686|nst:14796	lemma:	id:109469
+	Line 101080: orienteringen	Q $ i $ @ n $ t "e:? $ R e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienteringen	spell:0	freq:	update:	orig:NSTX=167687|nst:40059	lemma:	id:109470
+	Line 101080: orienteringen	Q $ i $ @ n $ t "e:? $ R e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienteringen	spell:0	freq:	update:	orig:NSTX=167687|nst:40059	lemma:	id:109470
+	Line 101081: orienteringer	Q $ i $ @ n $ t "e:? $ R e N? $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienteringer	spell:0	freq:	update:20a	orig:NSTX=167688|nst:107973	lemma:	id:109471
+	Line 101081: orienteringer	Q $ i $ @ n $ t "e:? $ R e N? $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienteringer	spell:0	freq:	update:20a	orig:NSTX=167688|nst:107973	lemma:	id:109471
+	Line 101082: orienteringsevne	Q $ i $ @ n $ t "e6? $ e N s - %E w $ n @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+evne	spell:0	freq:	update:20a	orig:NSTX=167689|nst:107974	lemma:	id:109472
+	Line 101082: orienteringsevne	Q $ i $ @ n $ t "e6? $ e N s - %E w $ n @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+evne	spell:0	freq:	update:20a	orig:NSTX=167689|nst:107974	lemma:	id:109472
+	Line 101083: orienteringsfag	Q $ i $ @ n $ t "e6? $ e N s - f %a:?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+fag	spell:0	freq:	update:	orig:NSTX=167690|nst:210874	lemma:	id:109473
+	Line 101083: orienteringsfag	Q $ i $ @ n $ t "e6? $ e N s - f %a:?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+fag	spell:0	freq:	update:	orig:NSTX=167690|nst:210874	lemma:	id:109473
+	Line 101084: orienteringsløb	Q $ i $ @ n $ t "e6? $ e N s - l %2:? b	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+løb	spell:0	freq:	update:	orig:NSTX=167691|nst:40060	lemma:	id:109474
+	Line 101084: orienteringsløb	Q $ i $ @ n $ t "e6? $ e N s - l %2:? b	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+løb	spell:0	freq:	update:	orig:NSTX=167691|nst:40060	lemma:	id:109474
+	Line 101085: orienteringsløbere	Q $ i $ @ n $ t "e6? $ e N s - l %2: $ b 6 $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+løbere	spell:0	freq:	update:	orig:NSTX=167692|nst:137923	lemma:	id:109475
+	Line 101085: orienteringsløbere	Q $ i $ @ n $ t "e6? $ e N s - l %2: $ b 6 $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+løbere	spell:0	freq:	update:	orig:NSTX=167692|nst:137923	lemma:	id:109475
+	Line 101086: orienteringsmøde	Q $ i $ @ n $ t "e6? $ e N s - m %2: D $ @	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+møde	spell:0	freq:	update:	orig:NSTX=167693|nst:53734	lemma:	id:109476
+	Line 101086: orienteringsmøde	Q $ i $ @ n $ t "e6? $ e N s - m %2: D $ @	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+møde	spell:0	freq:	update:	orig:NSTX=167693|nst:53734	lemma:	id:109476
+	Line 101087: orienteringsmøder	Q $ i $ @ n $ t "e6? $ e N s - m %2: D $ 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+møder	spell:0	freq:	update:	orig:NSTX=167694|nst:155091	lemma:	id:109477
+	Line 101087: orienteringsmøder	Q $ i $ @ n $ t "e6? $ e N s - m %2: D $ 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+møder	spell:0	freq:	update:	orig:NSTX=167694|nst:155091	lemma:	id:109477
+	Line 101088: orienteringspunkter	Q $ i $ @ n $ t "e6? $ e N s - p %O N $ d 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+punkter	spell:0	freq:	update:	orig:NSTX=167695|nst:137924	lemma:	id:109478
+	Line 101088: orienteringspunkter	Q $ i $ @ n $ t "e6? $ e N s - p %O N $ d 6	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+punkter	spell:0	freq:	update:	orig:NSTX=167695|nst:137924	lemma:	id:109478
+	Line 101089: orienteringssted	Q $ i $ @ n $ t "e6? $ e N s - s d %E D	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+sted	spell:0	freq:	update:2a	orig:NSTX=167696|nst:137925	lemma:	id:109479
+	Line 101089: orienteringssted	Q $ i $ @ n $ t "e6? $ e N s - s d %E D	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+sted	spell:0	freq:	update:2a	orig:NSTX=167696|nst:137925	lemma:	id:109479
+	Line 101090: orienteringsundervisning	Q $ i $ @ n $ t "e6? $ e N s - O $ n 6 - v %i:? $ s n e N	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+under+visning	spell:0	freq:	update:2a	orig:NSTX=167697|nst:210875	lemma:	id:109480
+	Line 101090: orienteringsundervisning	Q $ i $ @ n $ t "e6? $ e N s - O $ n 6 - v %i:? $ s n e N	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterings+under+visning	spell:0	freq:	update:2a	orig:NSTX=167697|nst:210875	lemma:	id:109480
+	Line 119149: samtidsorientering	s "A m ~ t i D s - Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sam~tids+orientering	spell:0	freq:	update:	orig:NSTX=187425|nst:215275	lemma:	id:129061
+	Line 119149: samtidsorientering	s "A m ~ t i D s - Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:sam~tids+orientering	spell:0	freq:	update:	orig:NSTX=187425|nst:215275	lemma:	id:129061
+	Line 158143: vestorienteringen	v "E s d - 6 $ i $ @ n $ t %e:? $ R e N? $ @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:vest+orienteringen	spell:0	freq:	update:2a	orig:NSTX=230457|nst:142723	lemma:	id:171859
+	Line 158143: vestorienteringen	v "E s d - 6 $ i $ @ n $ t %e:? $ R e N? $ @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:vest+orienteringen	spell:0	freq:	update:2a	orig:NSTX=230457|nst:142723	lemma:	id:171859
+	Line 168796: kundeorientering	k "O $ n @ - Q $ j E n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:kunde+orientering	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:718036	lemma:	id:205096
+	Line 168796: kundeorientering	k "O $ n @ - Q $ j E n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:kunde+orientering	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:718036	lemma:	id:205096
+	Line 169552: markedsorientering	m "A: $ g @ D s - Q $ j E n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:markeds+orientering	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:787459	lemma:	id:205852
+	Line 169552: markedsorientering	m "A: $ g @ D s - Q $ j E n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:markeds+orientering	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:787459	lemma:	id:205852
+	Line 170563: orienteringspunkt	Q $ i $ @ n $ t "e6? $ e N s - p %O N? d	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:orienterings+punkt	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:883674	lemma:	id:206863
+	Line 170563: orienteringspunkt	Q $ i $ @ n $ t "e6? $ e N s - p %O N? d	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:orienterings+punkt	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:883674	lemma:	id:206863
+	Line 170564: orienteringssporten	Q $ i $ @ n $ t "e6? $ e N s - s b %Q: $ d @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:orienterings+sporten	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:883691	lemma:	id:206864
+	Line 170564: orienteringssporten	Q $ i $ @ n $ t "e6? $ e N s - s b %Q: $ d @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:orienterings+sporten	spell:0	freq:-	update:STTS_20110509_1z	orig:NSTX=BABE:883691	lemma:	id:206864
+	Line 174049: venstreorientering	v "E n $ s d R 6 - Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:venstre+orientering	spell:0	freq:-	update:20a|STTS_20110509_1z	orig:NSTX=BABE:1238584	lemma:	id:210349
+	Line 174049: venstreorientering	v "E n $ s d R 6 - Q $ i $ @ n $ t %e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:venstre+orientering	spell:0	freq:-	update:20a|STTS_20110509_1z	orig:NSTX=BABE:1238584	lemma:	id:210349
+	Line 174050: venstreorienteringen	v "E n $ s d R 6 - Q $ i $ @ n $ t %e:? $ R e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:venstre+orienteringen	spell:0	freq:-	update:20a|STTS_20110509_1z	orig:NSTX=BABE:1238586	lemma:	id:210350
+	Line 174050: venstreorienteringen	v "E n $ s d R 6 - Q $ i $ @ n $ t %e:? $ R e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:venstre+orienteringen	spell:0	freq:-	update:20a|STTS_20110509_1z	orig:NSTX=BABE:1238586	lemma:	id:210350
+
+orient	Q $ i $ "E n? d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orient	spell:0	freq:	update:	orig:NSTX=167670|nst:31254	lemma:	id:109453
+
+oriental	6 $ i $ "e n $ t a l	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:oriental	spell:0	freq:	update:	orig:NSTX=167671|nst:53733	lemma:	id:109454
+
+orientaler	Q $ i $ @ n $ t "a:? $ l 6	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientaler	spell:0	freq:	update:	orig:NSTX=167672|nst:210872	lemma:	id:109455
+orientalist	Q $ i $ @ n $ t a $ l "i s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientalist	spell:0	freq:	update:20a	orig:NSTX=167673|nst:210873	lemma:	id:109456
+orientalsk	Q $ i $ @ n $ t "a:? l s g	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientalsk	spell:0	freq:	update:	orig:NSTX=167674|nst:14788	lemma:	id:109457
+orientalske	Q $ i $ @ n $ t "a:? l $ s g @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientalske	spell:0	freq:	update:20a	orig:NSTX=167675|nst:14789	lemma:	id:109458
+orientens	Q $ i $ "E n? $ d @ n s	NN UTR SIN DEF GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientens	spell:0	freq:	update:	orig:NSTX=167676|nst:95971	lemma:	id:109459
+orientere	Q $ i $ @ n $ t "e:? $ 6	VB INF AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientere	spell:0	freq:	update:	orig:NSTX=167677|nst:14790	lemma:	id:109460
+orienterede	Q $ i $ @ n $ t "e:? $ 6 D $ @	VB PRT AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterede	spell:0	freq:	update:	orig:NSTX=167678|nst:14791	lemma:	id:109461
+orienterende	Q $ i $ @ n $ t "e:? $ 6 $ n @	PC PRS UTR/NEU SIN/PLU IND/DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterende	spell:0	freq:	update:STTS_20110509_1z	orig:NSTX=167680|nst:44251	lemma:	id:109463
+orienterer	Q $ i $ @ n $ t "e:? $ 6	VB PRS AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienterer	spell:0	freq:	update:2c	orig:NSTX=167682|nst:14793	lemma:	id:109465
+orienteres	Q $ i $ @ n $ t "e:? $ 6 s	VB INF SFO	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienteres	spell:0	freq:	update:	orig:NSTX=167683|nst:31255	lemma:	id:109466
+orienteret	Q $ i $ @ n $ t "e:? $ 6 D	PC PRF UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orienteret	spell:0	freq:	update:	orig:NSTX=167684|nst:14794	lemma:	id:109467
+
+
+origamere	o6 $ i $ g a $ m "e:? $ 6	VB INF AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:origamere	spell:0	freq:	update:	orig:NSTX=167699|nst:210877	lemma:	id:109481
+origami	o6 $ i $ g "a: $ m i	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:origami	spell:0	freq:	update:	orig:NSTX=167700|nst:210878	lemma:	id:109482
+
+original	Q $ i $ g i $ n "a:? l	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original	spell:0	freq:	update:	orig:NSTX=167701|nst:14797	lemma:	id:109483
+originalbillede	Q $ i $ g i $ n "a:? l - b %e $ l @ D $ @	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+billede	spell:0	freq:	update:2a	orig:NSTX=167702|nst:210879	lemma:	id:109484
+originaldisketten	Q $ i $ g i $ n "a:? l - d i $ s g %E $ d @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+disketten	spell:0	freq:	update:2a	orig:NSTX=167703|nst:137926	lemma:	id:109485
+originaldisketter	Q $ i $ g i $ n "a:? l - d i $ s g %E $ d 6	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+disketter	spell:0	freq:	update:2a	orig:NSTX=167704|nst:137927	lemma:	id:109486
+originaldokument	Q $ i $ g i $ n "a:? l - d o $ g u $ m %E n? d	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+dokument	spell:0	freq:	update:	orig:NSTX=167705|nst:210880	lemma:	id:109487
+originale	Q $ i $ g i $ n "a:? $ l @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originale	spell:0	freq:	update:	orig:NSTX=167706|nst:14798	lemma:	id:109488
+originalen	Q $ i $ g i $ n "a:? $ l @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originalen	spell:0	freq:	update:	orig:NSTX=167707|nst:14799	lemma:	id:109489
+originalens	Q $ i $ g i $ n "a:? $ l @ n s	NN UTR SIN DEF GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originalens	spell:0	freq:	update:	orig:NSTX=167708|nst:95972	lemma:	id:109490
+originaler	Q $ i $ g i $ n "a:? $ l 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originaler	spell:0	freq:	update:20a	orig:NSTX=167709|nst:40061	lemma:	id:109491
+originalerne	Q $ i $ g i $ n "a:? $ l 6 $ n @	NN UTR PLU DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originalerne	spell:0	freq:	update:	orig:NSTX=167710|nst:53735	lemma:	id:109492
+originalinstrumenter	Q $ i $ g i $ n "a:? l - e n $ s d R u $ m %E n? $ d 6	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+instrumenter	spell:0	freq:	update:2a	orig:NSTX=167711|nst:107975	lemma:	id:109493
+originalitet	Q $ i $ g i $ n a $ l i $ t "e:? d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originalitet	spell:0	freq:	update:20a	orig:NSTX=167712|nst:14800	lemma:	id:109494
+originaliteten	Q $ i $ g i $ n a $ l i $ t "e:? $ d @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originaliteten	spell:0	freq:	update:20a	orig:NSTX=167713|nst:83239	lemma:	id:109495
+originalmanuskript	Q $ i $ g i $ n "a:? l - m a $ n u $ s g R %e b d	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+manuskript	spell:0	freq:	update:	orig:NSTX=167714|nst:83240	lemma:	id:109496
+originals	Q $ i $ g i $ n "a:? l s	NN UTR SIN IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originals	spell:0	freq:	update:20a	orig:NSTX=167715|nst:83241	lemma:	id:109497
+originalsprog	Q $ i $ g i $ n "a:? l - s b R %O w?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+sprog	spell:0	freq:	update:	orig:NSTX=167716|nst:210881	lemma:	id:109498
+originalsproget	Q $ i $ g i $ n "a:? l - s b R %O w? $ @ D	NN NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+sproget	spell:0	freq:	update:	orig:NSTX=167717|nst:40062	lemma:	id:109499
+originalt	Q $ i $ g i $ n "a:? l d	JJ POS UTR SIN IND/DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:originalt	spell:0	freq:	update:	orig:NSTX=167718|nst:14801	lemma:	id:109500
+originaltegninger	Q $ i $ g i $ n "a:? l - t %A j $ n e N? $ 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+tegninger	spell:0	freq:	update:	orig:NSTX=167720|nst:83242	lemma:	id:109502
+originaltekst	Q $ i $ g i $ n "a:? l - t %E g s d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+tekst	spell:0	freq:	update:	orig:NSTX=167721|nst:210882	lemma:	id:109503
+originaltitel	Q $ i $ g i $ n "a:? l - t %i $ d @ l	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+titel	spell:0	freq:	update:	orig:NSTX=167722|nst:67298	lemma:	id:109504
+originaltitlen	Q $ i $ g i $ n "a:? l - t %i d $ l @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+titlen	spell:0	freq:	update:	orig:NSTX=167723|nst:67299	lemma:	id:109505
+originaludgave	Q $ i $ g i $ n "a:? l - u D ~ g %a: $ v @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+ud~gave	spell:0	freq:	update:	orig:NSTX=167724|nst:83243	lemma:	id:109506
+originaludgaven	Q $ i $ g i $ n "a:? l - u D ~ g %a: $ v @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+ud~gaven	spell:0	freq:	update:	orig:NSTX=167725|nst:83244	lemma:	id:109507
+originaludgaver	Q $ i $ g i $ n "a:? l - u D ~ g %a: $ v 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+ud~gaver	spell:0	freq:	update:	orig:NSTX=167726|nst:149048	lemma:	id:109508
+originalversion	Q $ i $ g i $ n "a:? l - v E6 $ S %o:? n	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+version	spell:0	freq:	update:	orig:NSTX=167727|nst:107976	lemma:	id:109509
+originalversionen	Q $ i $ g i $ n "a:? l - v E6 $ S %o:? $ n @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:original+versionen	spell:0	freq:	update:	orig:NSTX=167728|nst:83245	lemma:	id:109510
+
+Efter:
+	
+Line 101079: orientering	Q $ R i $ @ n $ t "e6? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:orientering	spell:0	freq:	update:	orig:NSTX=167686|nst:14796	lemma:	id:109469

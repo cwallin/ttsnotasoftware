@@ -1,0 +1,876 @@
+"*/../wavMartin22050/sn0100/sent002.ord"
+bredde: b R "a:? d @ 
+"*/../wavMartin22050/sn0100/sent037.ord"
+cd-rom-drevet.: s e: d e: R "6 m? d R %a:? v @ D 
+"*/../wavMartin22050/sn0100/sent047.ord"
+reven: R "a: v @ n 
+"*/../wavMartin22050/sn0100/sent066.ord"
+religiøs: R a l i g j "2:? s 
+"*/../wavMartin22050/sn0100/sent087.ord"
+chefredaktør,: S "E:? f R a d A g t %26? 
+"*/../wavMartin22050/sn0100/sent111.ord"
+præsenteret: p R a s @ n t "e:? 6 D 
+"*/../wavMartin22050/sn0100/sent122.ord"
+redaktionschef.: R a d A g S "o:? n s S %E:? f 
+"*/../wavMartin22050/sn0100/sent128.ord"
+regulær: R a g u l "E6? 
+"*/../wavMartin22050/sn0101/sent003.ord"
+tres.: t R "a s 
+"*/../wavMartin22050/sn0101/sent033.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0101/sent035.ord"
+vred: v R "a D? 
+"*/../wavMartin22050/sn0101/sent054.ord"
+manøvreres.: m a n 2 w R "a:? 6 s 
+"*/../wavMartin22050/sn0101/sent056.ord"
+reallønsfremgang: R a "a:? l l 9 n s f R E m g %A N? 
+"*/../wavMartin22050/sn0101/sent106.ord"
+brev.: b R "a w? 
+"*/../wavMartin22050/sn0101/sent118.ord"
+vred: v R "a D? 
+"*/../wavMartin22050/sn0101/sent121.ord"
+regenerere: R "a g E n @ R %e:? 6 
+"*/../wavMartin22050/sn0101/sent130.ord"
+begrebet: b e g R "a:? b @ D 
+"*/../wavMartin22050/sn0101/sent140.ord"
+regel: R "a:? @ l 
+"*/../wavMartin22050/sn0101/sent142.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0101/sent150.ord"
+respekt: R a s b "E g d 
+"*/../wavMartin22050/sn0102/sent011.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0102/sent021.ord"
+angreb: "a n g R %a:? b 
+"*/../wavMartin22050/sn0102/sent023.ord"
+cirkusrevyen: s "i6 g u s R a v %y:? @ n 
+"*/../wavMartin22050/sn0102/sent034.ord"
+revy,: R a v "y 
+"*/../wavMartin22050/sn0102/sent036.ord"
+brede.: b R "a: D @ 
+"*/../wavMartin22050/sn0102/sent068.ord"
+reservoir: R a s E6 v w "A: 
+"*/../wavMartin22050/sn0102/sent072.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0102/sent087.ord"
+beskrev: b e s g R "a w? 
+"*/../wavMartin22050/sn0102/sent094.ord"
+rene: R "a: n @ 
+"*/../wavMartin22050/sn0102/sent109.ord"
+cremet: k R "a: m @ D 
+"*/../wavMartin22050/sn0102/sent139.ord"
+kreds: k R "a:? s 
+"*/../wavMartin22050/sn0102/sent143.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0103/sent006.ord"
+angreb: "a n g R %a:? b 
+"*/../wavMartin22050/sn0103/sent018.ord"
+rengøring: R "a: n g %96? e N 
+"*/../wavMartin22050/sn0103/sent049.ord"
+registreringseditoren: R a g i s d R "e6? e N s e d i t %Q: 6 n 
+"*/../wavMartin22050/sn0103/sent067.ord"
+motivkreds: m o t "i w? k R %a:? s 
+"*/../wavMartin22050/sn0103/sent081.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0103/sent083.ord"
+rendyrket: R "a: n d %y6 g @ D 
+"*/../wavMartin22050/sn0103/sent100.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0103/sent147.ord"
+redningsbåden: R "a D n e N s b %O:? D @ n 
+"*/../wavMartin22050/sn0105/sent053.ord"
+refuge.: R a f "y: S 
+"*/../wavMartin22050/sn0105/sent131.ord"
+ekstrem: E g s d R "a:? m 
+"*/../wavMartin22050/sn0106/sent003.ord"
+kastreret: k a s d R "a:? 6 D 
+"*/../wavMartin22050/sn0106/sent033.ord"
+ekstremt: E g s d R "a:? m d 
+"*/../wavMartin22050/sn0106/sent061.ord"
+greb: g R "a:? b 
+"*/../wavMartin22050/sn0106/sent063.ord"
+memorerer: m e m o R "a:? 6 
+"*/../wavMartin22050/sn0106/sent084.ord"
+fredning,: f R "a D n e N 
+"*/../wavMartin22050/sn0106/sent095.ord"
+revolution.: R a v o l u S "o:? n 
+"*/../wavMartin22050/sn0106/sent104.ord"
+redigér: R a d i g "e6? 
+"*/../wavMartin22050/sn0106/sent113.ord"
+rengøringsdame.: R "a: n g 96? e N s d %a: m @ 
+"*/../wavMartin22050/sn0107/sent041.ord"
+apartheidregimet.: a p "A: d h A j d R a S %i: m @ D 
+"*/../wavMartin22050/sn0107/sent061.ord"
+regel: R "a:? @ l 
+"*/../wavMartin22050/sn0107/sent065.ord"
+kreationer.: k R a a S "o:? n 6 
+"*/../wavMartin22050/sn0107/sent088.ord"
+illustrerer: i l u s d R "a:? 6 
+"*/../wavMartin22050/sn0107/sent093.ord"
+repræsentant: R a p R e s @ n t "a n? d 
+"*/../wavMartin22050/sn0107/sent117.ord"
+regering.: R a g "e6? e N 
+"*/../wavMartin22050/sn0107/sent126.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0107/sent140.ord"
+reportage: R a p Q t "a: S @ 
+"*/../wavMartin22050/sn0107/sent149.ord"
+resultat.: R a s u l t "a:? d 
+"*/../wavMartin22050/sn0107/sent150.ord"
+halvtreds.: h a l t R "a s 
+"*/../wavMartin22050/sn0108/sent027.ord"
+fiskerestaurant: f "e s g @ R a s d o R %A N 
+"*/../wavMartin22050/sn0108/sent029.ord"
+bredskuldret,: b R "a D s g %u l? R 6 D 
+"*/../wavMartin22050/sn0108/sent043.ord"
+regeringssamarbejde.: R a g "e6? e N s s A m A: b %A j? d @ 
+"*/../wavMartin22050/sn0108/sent069.ord"
+forbundsrepublikken.: f "Q: b O n s R a p u b l %i g @ n 
+"*/../wavMartin22050/sn0108/sent073.ord"
+borgerrepræsentant: b "Q w 6 R a p R e s @ n t %a n? d 
+"*/../wavMartin22050/sn0108/sent080.ord"
+ekstremt: E g s d R "a:? m d 
+"*/../wavMartin22050/sn0108/sent087.ord"
+skizofrent,: s g i d s o f R "a:? n d 
+"*/../wavMartin22050/sn0108/sent122.ord"
+uregelmæssig: "u R a:? @ l m %E s i 
+"*/../wavMartin22050/sn0108/sent129.ord"
+tres.: t R "a s 
+"*/../wavMartin22050/sn0109/sent027.ord"
+halvtreds.: h a l t R "a s 
+"*/../wavMartin22050/sn0109/sent039.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0109/sent048.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0109/sent076.ord"
+redaktion.: R a d A g S "o:? n 
+"*/../wavMartin22050/sn0109/sent082.ord"
+fredelig.: f R "a: D @ l i 
+"*/../wavMartin22050/sn0109/sent097.ord"
+ignorerer: i n j o R "a:? 6 
+"*/../wavMartin22050/sn0109/sent124.ord"
+dressing: d R "a s e N 
+"*/../wavMartin22050/sn0109/sent131.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0109/sent135.ord"
+fremdrift.: f R "E m d R %a f d 
+"*/../wavMartin22050/sn0109/sent148.ord"
+fintrevet: f "i:? n d R %a: v @ D 
+"*/../wavMartin22050/sn0110/sent015.ord"
+fredsaftale: f R "a D s A w t %a: l @ 
+"*/../wavMartin22050/sn0110/sent062.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0110/sent095.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0110/sent140.ord"
+reaktionært: R "a: A g S o n %E6? d 
+"*/../wavMartin22050/sn0110/sent141.ord"
+reelt,: R a "E l? d 
+"*/../wavMartin22050/sn0110/sent143.ord"
+relativ: R "a l a t %i w? 
+"*/../wavMartin22050/sn0111/sent024.ord"
+stueren,: s d "u: @ R %a:? n 
+"*/../wavMartin22050/sn0111/sent026.ord"
+stress.: s d R "a s 
+"*/../wavMartin22050/sn0111/sent028.ord"
+regel.: R "a:? @ l 
+"*/../wavMartin22050/sn0111/sent054.ord"
+diskret.: d i s g R "a:? d 
+"*/../wavMartin22050/sn0111/sent078.ord"
+redaktion: R a d A g S "o:? n 
+"*/../wavMartin22050/sn0111/sent084.ord"
+premiere: p R a m j "E: 6 
+"*/../wavMartin22050/sn0111/sent093.ord"
+vred.: v R "a D? 
+"*/../wavMartin22050/sn0112/sent051.ord"
+rekruttering: R a k R u t "e6? e N 
+"*/../wavMartin22050/sn0112/sent059.ord"
+ren: R "a:? n 
+"*/../wavMartin22050/sn0112/sent105.ord"
+brevet,: b R "a:? v @ D 
+"*/../wavMartin22050/sn0112/sent107.ord"
+reparation: R a b A A S "o:? n 
+"*/../wavMartin22050/sn0112/sent123.ord"
+refugium.: R a f "u:? g j O m 
+"*/../wavMartin22050/sn0113/sent074.ord"
+redaktion.: R a d A g S "o:? n 
+"*/../wavMartin22050/sn0113/sent101.ord"
+replikker: R a p l "i g 6 
+"*/../wavMartin22050/sn0113/sent108.ord"
+rene: R "a: n @ 
+"*/../wavMartin22050/sn0113/sent129.ord"
+spredehagl.: s b R "a: D @ h %A w? l 
+"*/../wavMartin22050/sn0113/sent146.ord"
+entre: A N t R "a 
+"*/../wavMartin22050/sn0114/sent016.ord"
+reportage.: R a p Q t "a: S @ 
+"*/../wavMartin22050/sn0114/sent029.ord"
+dressing.: d R "a s e N 
+"*/../wavMartin22050/sn0114/sent147.ord"
+rene: R "a: n @ 
+"*/../wavMartin22050/sn0115/sent016.ord"
+regeres: R a g "e:? 6 s 
+"*/../wavMartin22050/sn0115/sent040.ord"
+kulturrevolution: k u l t "u6? R a v o l u S %o:? n 
+"*/../wavMartin22050/sn0115/sent060.ord"
+revet: R "a: v @ D 
+"*/../wavMartin22050/sn0115/sent069.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0115/sent089.ord"
+redaktør,: R a d A g t "26? 
+"*/../wavMartin22050/sn0115/sent097.ord"
+halvtres: h a l t R "a s 
+halvtreds: h a l t R "a s 
+tres.: t R "a s 
+"*/../wavMartin22050/sn0115/sent110.ord"
+indgreb,: "e n g R %a:? b 
+"*/../wavMartin22050/sn0115/sent113.ord"
+allerede: "a l @ R %a: D @ 
+"*/../wavMartin22050/sn0115/sent123.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0115/sent126.ord"
+drev: d R "a w? 
+"*/../wavMartin22050/sn0116/sent024.ord"
+retardering,: R a t A d "e6? e N 
+"*/../wavMartin22050/sn0116/sent034.ord"
+ren: R "a:? n 
+"*/../wavMartin22050/sn0116/sent121.ord"
+renlighed: R "a: n l i h %e D? 
+regelmæssighed: R "a:? @ l m E s i h %e D? 
+"*/../wavMartin22050/sn0117/sent026.ord"
+religionsrapport.: R a l i g j "o:? n s R A p %Q: d 
+"*/../wavMartin22050/sn0117/sent137.ord"
+registreringsdatabasen: R a g i s d R "e6? e N s d a: t a b %a: s @ n 
+"*/../wavMartin22050/sn0118/sent009.ord"
+overgreb.: "6 w 6 g R %a:? b 
+"*/../wavMartin22050/sn0118/sent020.ord"
+opereres.: o b @ R "a:? 6 s 
+"*/../wavMartin22050/sn0118/sent025.ord"
+redde: R "a D @ 
+"*/../wavMartin22050/sn0118/sent029.ord"
+reagerer: R a a g "e:? 6 
+"*/../wavMartin22050/sn0118/sent036.ord"
+frustrerende.: f R u s d R "a:? 6 n @ 
+"*/../wavMartin22050/sn0118/sent042.ord"
+revet: R "a: v @ D 
+"*/../wavMartin22050/sn0118/sent071.ord"
+skrevet: s g R "a: v @ D 
+"*/../wavMartin22050/sn0118/sent076.ord"
+angreb: "a n g R %a:? b 
+"*/../wavMartin22050/sn0118/sent078.ord"
+relativt: R "a l a t %i w? d 
+"*/../wavMartin22050/sn0118/sent137.ord"
+dræberen.: d R "a: b 6 6 n 
+"*/../wavMartin22050/sn0119/sent008.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0119/sent019.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0119/sent047.ord"
+revet: R "a:? v @ D 
+"*/../wavMartin22050/sn0119/sent051.ord"
+konkret.: k 6 N k R "a:? d 
+"*/../wavMartin22050/sn0119/sent070.ord"
+allerede: "a l @ R %a: D @ 
+"*/../wavMartin22050/sn0119/sent075.ord"
+reformen: R a f "Q:? m @ n 
+"*/../wavMartin22050/sn0119/sent089.ord"
+udbredt,: "u D b R %a:? d 
+"*/../wavMartin22050/sn0119/sent105.ord"
+redaktion.: R a d A g S "o:? n 
+"*/../wavMartin22050/sn0119/sent109.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0119/sent125.ord"
+utilfreds: "u t e f R %a s 
+"*/../wavMartin22050/sn0119/sent133.ord"
+tres: t R "a s 
+tres.: t R "a s 
+"*/../wavMartin22050/sn0119/sent136.ord"
+tres: t R "a s 
+tres: t R "a s 
+tres.: t R "a s 
+"*/../wavMartin22050/sn0119/sent140.ord"
+vred.: v R "a D? 
+"*/../wavMartin22050/sn0120/sent049.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0120/sent053.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0120/sent067.ord"
+tres,: t R "a s 
+"*/../wavMartin22050/sn0120/sent075.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0120/sent095.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0120/sent105.ord"
+allerede: "a l @ R %a: D @ 
+"*/../wavMartin22050/sn0120/sent110.ord"
+familiebegrebet.: f a m "i l? j @ b e g R %a:? b @ D 
+"*/../wavMartin22050/sn0120/sent125.ord"
+angrebene: "a n g R %a:? b @ n @ 
+"*/../wavMartin22050/sn0120/sent126.ord"
+reformiver: R a f "Q:? m %i:? v 6 
+"*/../wavMartin22050/sn0120/sent137.ord"
+beskrev,: b e s g R "a w? 
+"*/../wavMartin22050/sn0120/sent144.ord"
+drevet: d R "a: v @ D 
+"*/../wavMartin22050/sn0120/sent146.ord"
+helbred: h "E l b R %a D 
+"*/../wavMartin22050/sn0121/sent010.ord"
+koncentrerede: k 6 n s @ n t R "a:? 6 D @ 
+"*/../wavMartin22050/sn0121/sent024.ord"
+naturressourcer.: n a t "u6? R a s %u6 s 6 
+"*/../wavMartin22050/sn0121/sent075.ord"
+respektabel: R a s b E g t "a:? b @ l 
+"*/../wavMartin22050/sn0121/sent111.ord"
+ressourcer.: R a s "u6 s 6 
+"*/../wavMartin22050/sn0121/sent118.ord"
+koncentreret.: k 6 n s @ n t R "a:? 6 D 
+"*/../wavMartin22050/sn0121/sent120.ord"
+dressingen: d R "a s %e N? @ n 
+"*/../wavMartin22050/sn0121/sent137.ord"
+cremen: k R "a:? m @ n 
+"*/../wavMartin22050/sn0122/sent041.ord"
+bretoner.: b R a t "o:? n 6 
+"*/../wavMartin22050/sn0122/sent061.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0122/sent144.ord"
+spredt: s b R "a:? d 
+"*/../wavMartin22050/sn0123/sent008.ord"
+ekstrem: E g s d R "a:? m 
+"*/../wavMartin22050/sn0123/sent052.ord"
+freden,: f R "a D? @ n 
+"*/../wavMartin22050/sn0123/sent127.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0123/sent135.ord"
+rene: R "a: n @ 
+"*/../wavMartin22050/sn0123/sent146.ord"
+fredag: f R "a:? d a 
+"*/../wavMartin22050/sn0124/sent045.ord"
+indskrevet: "e n s g R %a:? v @ D 
+"*/../wavMartin22050/sn0124/sent082.ord"
+ugerevy,: "u: @ R a v %y 
+"*/../wavMartin22050/sn0124/sent096.ord"
+miskredit.: m "i s k R a d %i d 
+"*/../wavMartin22050/sn0124/sent128.ord"
+religionsvidenskab: R a l i g j "o:? n s v i: D @ n s g %a:? b 
+"*/../wavMartin22050/sn0124/sent133.ord"
+republic,: R a p "6 b l i g 
+"*/../wavMartin22050/sn0125/sent023.ord"
+regi,: R a S "i 
+"*/../wavMartin22050/sn0125/sent038.ord"
+begreb,: b e g R "a:? b 
+"*/../wavMartin22050/sn0125/sent053.ord"
+repræsentative: R a p R "e s @ n t a t %i:? v @ 
+"*/../wavMartin22050/sn0125/sent067.ord"
+udbredte.: "u D b R %a:? d @ 
+"*/../wavMartin22050/sn0125/sent084.ord"
+studieforberedelse: s d "u:? d j @ f Q: b @ R %a D? @ l s @ 
+"*/../wavMartin22050/sn0125/sent087.ord"
+fredagsbønnen: f R "a:? d a s b %9 n? @ n 
+"*/../wavMartin22050/sn0126/sent011.ord"
+printere.: p R "a n d 6 6 
+"*/../wavMartin22050/sn0126/sent013.ord"
+helbredet.: h "e: l b R %a D? @ D 
+"*/../wavMartin22050/sn0126/sent040.ord"
+religionsforsker.: R a l i g j "o:? n s f %Q: s g 6 
+"*/../wavMartin22050/sn0126/sent044.ord"
+renovering: R a n o v "e6? e N 
+"*/../wavMartin22050/sn0126/sent067.ord"
+regissør: R a S i s "26? 
+"*/../wavMartin22050/sn0126/sent093.ord"
+underskrev: "O n 6 s g R %a w? 
+"*/../wavMartin22050/sn0126/sent105.ord"
+restaurant: R a s d o R "A N 
+"*/../wavMartin22050/sn0127/sent012.ord"
+oksehøjreb.: "6 g s @ h 6 j R %a:? b 
+"*/../wavMartin22050/sn0127/sent078.ord"
+greb: g R "a:? b 
+"*/../wavMartin22050/sn0127/sent083.ord"
+stuerent,: s d "u: @ R %a:? n d 
+"*/../wavMartin22050/sn0127/sent087.ord"
+redningsplan: R "a D n e N s p l %a:? n 
+"*/../wavMartin22050/sn0127/sent142.ord"
+cremet: k R "a: m @ D 
+"*/../wavMartin22050/sn0128/sent019.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0128/sent032.ord"
+rene: R "a: n @ 
+"*/../wavMartin22050/sn0128/sent034.ord"
+resultatet: R a s u l t "a:? d @ D 
+"*/../wavMartin22050/sn0128/sent063.ord"
+reddede: R "a D @ D @ 
+"*/../wavMartin22050/sn0128/sent065.ord"
+allerede: "a l @ R %a: D @ 
+"*/../wavMartin22050/sn0128/sent076.ord"
+ren,: R "a:? n 
+"*/../wavMartin22050/sn0128/sent089.ord"
+rene: R "a: n @ 
+"*/../wavMartin22050/sn0129/sent090.ord"
+redt.: R "a:? d 
+"*/../wavMartin22050/sn0129/sent096.ord"
+red: R "a D? 
+"*/../wavMartin22050/sn0129/sent122.ord"
+terrorangreb.: t "E6 Q a n g R %a:? b 
+"*/../wavMartin22050/sn0129/sent143.ord"
+grebet: g R "a b @ D 
+"*/../wavMartin22050/sn0130/sent018.ord"
+religionen.: R a l i g j "o:? n @ n 
+"*/../wavMartin22050/sn0130/sent041.ord"
+retorisk: R a t "o6? i s g 
+"*/../wavMartin22050/sn0130/sent046.ord"
+redaktion,: R a d A g S "o:? n 
+"*/../wavMartin22050/sn0130/sent072.ord"
+regerer: R a g "e:? 6 
+"*/../wavMartin22050/sn0131/sent049.ord"
+rekreativ: R "a k R @ a t %i w? 
+"*/../wavMartin22050/sn0131/sent053.ord"
+forberedt: f "Q: b @ R %a:? d 
+"*/../wavMartin22050/sn0131/sent090.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0131/sent091.ord"
+reelt: R a "E l? d 
+"*/../wavMartin22050/sn0132/sent061.ord"
+respekt: R a s b "E g d 
+"*/../wavMartin22050/sn0132/sent073.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0133/sent020.ord"
+registreringsdatabasen: R a g i s d R "e6? e N s d a: t a b %a: s @ n 
+"*/../wavMartin22050/sn0133/sent040.ord"
+brede: b R "a: D @ 
+"*/../wavMartin22050/sn0133/sent055.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0133/sent061.ord"
+angrebet: "a n g R %a:? b @ D 
+"*/../wavMartin22050/sn0133/sent077.ord"
+ren: R "a:? n 
+"*/../wavMartin22050/sn0133/sent084.ord"
+fredage: f R "a:? d %a: @ 
+"*/../wavMartin22050/sn0133/sent104.ord"
+ekstremt: E g s d R "a:? m d 
+"*/../wavMartin22050/sn0134/sent005.ord"
+konkret: k 6 N k R "a:? d 
+"*/../wavMartin22050/sn0134/sent044.ord"
+regeringen.: R a g "e:? R e N? @ n 
+"*/../wavMartin22050/sn0134/sent091.ord"
+pilgrimsrejser: p "i l g R a m s R %A j s 6 
+"*/../wavMartin22050/sn0134/sent102.ord"
+studiekredsen.: s d "u:? d j @ k R %a:? s @ n 
+"*/../wavMartin22050/sn0134/sent105.ord"
+regeringen: R a g "e:? R e N? @ n 
+"*/../wavMartin22050/sn0135/sent027.ord"
+regering.: R a g "e6? e N 
+"*/../wavMartin22050/sn0135/sent058.ord"
+fred: f R "a D 
+"*/../wavMartin22050/sn0135/sent061.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0135/sent063.ord"
+udbredt: "u D b R %a:? d 
+"*/../wavMartin22050/sn0135/sent075.ord"
+skrevet: s g R "a: v @ D 
+"*/../wavMartin22050/sn0135/sent113.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0135/sent146.ord"
+chefredaktør: S "E:? f R a d A g t %26? 
+"*/../wavMartin22050/sn0136/sent038.ord"
+breder: b R "a: D 6 
+"*/../wavMartin22050/sn0136/sent057.ord"
+tillidsrepræsentant.: t "e l i D s R a p R e s @ n t %a n? d 
+"*/../wavMartin22050/sn0137/sent103.ord"
+fredagsbøn: f R "a:? d a s b %9 n? 
+"*/../wavMartin22050/sn0137/sent120.ord"
+gøgereden: g "2: @ R %a: D @ n 
+"*/../wavMartin22050/sn0137/sent121.ord"
+gøgereden.: g "2: @ R %a: D @ n 
+"*/../wavMartin22050/sn0138/sent064.ord"
+ressourcer.: R a s "u6 s 6 
+"*/../wavMartin22050/sn0138/sent147.ord"
+yoghurtdressing.: j "o g u6 d d R %a s e N 
+"*/../wavMartin22050/sn0139/sent012.ord"
+bananrepublik.: b a n "a:? n R a p u b l %i g 
+"*/../wavMartin22050/sn0139/sent030.ord"
+reetablering: R "a e t a b l %e6? e N 
+"*/../wavMartin22050/sn0139/sent136.ord"
+repatriering.: R "a p a t R i %e6? e N 
+"*/../wavMartin22050/sn0139/sent145.ord"
+redaktion: R a d A g S "o:? n 
+"*/../wavMartin22050/sn0140/sent105.ord"
+relikvier.: R a l "i:? k v i 6 
+"*/../wavMartin22050/sn0141/sent044.ord"
+begreb: b e g R "a:? b 
+"*/../wavMartin22050/sn0141/sent050.ord"
+reklamer.: R a k l "a: m 6 
+"*/../wavMartin22050/sn0141/sent060.ord"
+regering,: R a g "e6? e N 
+"*/../wavMartin22050/sn0141/sent108.ord"
+drev,: d R "a w? 
+"*/../wavMartin22050/sn0141/sent134.ord"
+vredens: v R "a: D @ n s 
+"*/../wavMartin22050/sn0142/sent006.ord"
+entreen.: A N t R "a:? @ n 
+"*/../wavMartin22050/sn0142/sent082.ord"
+redaktion.: R a d A g S "o:? n 
+"*/../wavMartin22050/sn0142/sent086.ord"
+vred: v R "a D? 
+"*/../wavMartin22050/sn0142/sent103.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0143/sent014.ord"
+greb: g R "a:? b 
+"*/../wavMartin22050/sn0143/sent017.ord"
+afskedsbrev.: "A w s g @ D s b R %a w? 
+"*/../wavMartin22050/sn0143/sent039.ord"
+uregelmæssige: "u R a:? @ l m %E s i:? @ 
+"*/../wavMartin22050/sn0143/sent072.ord"
+koralrev: k o R "A l? R %a w 
+"*/../wavMartin22050/sn0143/sent126.ord"
+respiration.: R a s b i A S "o:? n 
+"*/../wavMartin22050/sn0144/sent021.ord"
+ressource: R a s "u6 s @ 
+"*/../wavMartin22050/sn0144/sent085.ord"
+harem,: h "A: R %a m? 
+"*/../wavMartin22050/sn0145/sent023.ord"
+spredt: s b R "a:? d 
+"*/../wavMartin22050/sn0145/sent089.ord"
+reform: R a f "Q:? m 
+"*/../wavMartin22050/sn0145/sent094.ord"
+frede: f R "a: D @ 
+"*/../wavMartin22050/sn0145/sent096.ord"
+groftrevet: g R "6 f d R %a: v @ D 
+"*/../wavMartin22050/sn0146/sent003.ord"
+greven: g R "a: v @ n 
+"*/../wavMartin22050/sn0146/sent049.ord"
+fredsommelige.: f R a D s "6 m? @ l i:? @ 
+"*/../wavMartin22050/sn0146/sent070.ord"
+rekorden: R a k "Q: d @ n 
+"*/../wavMartin22050/sn0146/sent084.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0146/sent137.ord"
+resultater.: R a s u l t "a:? d 6 
+"*/../wavMartin22050/sn0147/sent002.ord"
+udbredt.: "u D b R %a:? d 
+"*/../wavMartin22050/sn0147/sent020.ord"
+resultaterne: R a s u l t "a:? d 6 n @ 
+"*/../wavMartin22050/sn0147/sent021.ord"
+studieforberedelse.: s d "u:? d j @ f Q: b @ R %a D? @ l s @ 
+"*/../wavMartin22050/sn0147/sent063.ord"
+helbred.: h "E l b R %a D 
+"*/../wavMartin22050/sn0147/sent065.ord"
+helbred.: h "E l b R %a D 
+"*/../wavMartin22050/sn0147/sent119.ord"
+redigér: R a d i g "e6? 
+"*/../wavMartin22050/sn0148/sent011.ord"
+forurening.: f Q u R "a:? n e N 
+"*/../wavMartin22050/sn0148/sent028.ord"
+tilberedt: t "e l b @ R %a:? d 
+"*/../wavMartin22050/sn0148/sent079.ord"
+idrætsgrene.: "i d R E d s g R %a: n @ 
+"*/../wavMartin22050/sn0148/sent090.ord"
+angreb: "a n g R %a:? b 
+breder: b R "a: D 6 
+"*/../wavMartin22050/sn0148/sent093.ord"
+revolution,: R a v o l u S "o:? n 
+"*/../wavMartin22050/sn0148/sent113.ord"
+læserbrev: l "E: s 6 b R %a w? 
+"*/../wavMartin22050/sn0148/sent135.ord"
+kreditorer: k R a d i t "o: 6 
+"*/../wavMartin22050/sn0149/sent005.ord"
+entreen.: A N t R "a:? @ n 
+"*/../wavMartin22050/sn0149/sent061.ord"
+selvregulering: s "E l R a g u l %e6? e N 
+"*/../wavMartin22050/sn0149/sent067.ord"
+entreen.: A N t R "a:? @ n 
+"*/../wavMartin22050/sn0149/sent101.ord"
+brev: b R "a w? 
+"*/../wavMartin22050/sn0150/sent024.ord"
+fredelige: f R "a: D @ l i:? @ 
+"*/../wavMartin22050/sn0151/sent056.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0151/sent079.ord"
+tilfreds: t e f R "a s 
+"*/../wavMartin22050/sn0151/sent082.ord"
+cremet: k R "a: m @ D 
+"*/../wavMartin22050/sn0151/sent085.ord"
+angrebskrig: "a n g R a: b s k R %i:? 
+"*/../wavMartin22050/sn0151/sent116.ord"
+angrebet: "a n g R %a:? b @ D 
+"*/../wavMartin22050/sn0151/sent124.ord"
+revolutionen: R a v o l u S "o:? n @ n 
+"*/../wavMartin22050/sn0151/sent135.ord"
+urenheder: "u R a: n h %e D? 6 
+"*/../wavMartin22050/sn0152/sent006.ord"
+fredag: f R "a:? d a 
+"*/../wavMartin22050/sn0152/sent046.ord"
+rengøringsdame.: R "a: n g 96? e N s d %a: m @ 
+"*/../wavMartin22050/sn0152/sent073.ord"
+landboreformerne.: l "a n b o: R a f %Q:? m 6 n @ 
+"*/../wavMartin22050/sn0152/sent085.ord"
+relativ: R "a l a t %i w? 
+"*/../wavMartin22050/sn0153/sent069.ord"
+minareter: m i n a R "a:? d 6 
+"*/../wavMartin22050/sn0154/sent003.ord"
+revyen.: R a v "y:? @ n 
+"*/../wavMartin22050/sn0154/sent025.ord"
+cremen: k R "a:? m @ n 
+"*/../wavMartin22050/sn0154/sent061.ord"
+replicerede.: R a p l i s "e:? 6 D @ 
+"*/../wavMartin22050/sn0154/sent089.ord"
+grene.: g R "a: n @ 
+"*/../wavMartin22050/sn0155/sent103.ord"
+reklamer: R a k l "a: m 6 
+"*/../wavMartin22050/sn0155/sent137.ord"
+rebus.: R "a: b u s 
+"*/../wavMartin22050/sn0156/sent020.ord"
+regimet: R a S "i: m @ D 
+"*/../wavMartin22050/sn0156/sent035.ord"
+regering: R a g "e6? e N 
+"*/../wavMartin22050/sn0156/sent057.ord"
+cd-rom-drevet.: s e: d e: R "6 m? d R %a:? v @ D 
+"*/../wavMartin22050/sn0156/sent069.ord"
+registreres: R a g i s d R "e:? 6 s 
+"*/../wavMartin22050/sn0156/sent095.ord"
+udbredt: "u D b R %a:? d 
+"*/../wavMartin22050/sn0156/sent099.ord"
+fagkredse: f "A w k R %a: s @ 
+"*/../wavMartin22050/sn0156/sent126.ord"
+fiskerestaurant.: f "e s g @ R a s d o R %A N 
+"*/../wavMartin22050/sn0156/sent143.ord"
+reformens: R a f "Q:? m @ n s 
+"*/../wavMartin22050/sn0157/sent015.ord"
+uredelig: u R "a D? @ l i 
+"*/../wavMartin22050/sn0157/sent092.ord"
+urent: "u R %a:? n d 
+"*/../wavMartin22050/sn0157/sent111.ord"
+bredt.: b R "a d 
+"*/../wavMartin22050/sn0158/sent073.ord"
+realisme: R a a l "i s m @ 
+"*/../wavMartin22050/sn0158/sent077.ord"
+allerede: "a l @ R %a: D @ 
+"*/../wavMartin22050/sn0158/sent087.ord"
+rendyrket: R "a: n d %y6 g @ D 
+"*/../wavMartin22050/sn0158/sent119.ord"
+revet: R "a:? v @ D 
+"*/../wavMartin22050/sn0159/sent036.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0159/sent101.ord"
+ekstremt: E g s d R "a:? m d 
+"*/../wavMartin22050/sn0160/sent129.ord"
+fredelig: f R "a: D @ l i 
+"*/../wavMartin22050/sn0161/sent050.ord"
+bremer: b R "a:? m 6 
+"*/../wavMartin22050/sn0161/sent077.ord"
+konkret,: k 6 N k R "a:? d 
+"*/../wavMartin22050/sn0161/sent084.ord"
+ekstremt.: E g s d R "a:? m d 
+"*/../wavMartin22050/sn0161/sent096.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0161/sent112.ord"
+reagerer: R a a g "e:? 6 
+"*/../wavMartin22050/sn0162/sent033.ord"
+fred: f R "a D? 
+"*/../wavMartin22050/sn0162/sent085.ord"
+rebel,: R a b "E l? 
+"*/../wavMartin22050/sn0163/sent014.ord"
+brevpost.: b R "a w p %6 s d 
+"*/../wavMartin22050/sn0163/sent024.ord"
+drev.: d R "a w 
+"*/../wavMartin22050/sn0163/sent098.ord"
+vred: v R "a D? 
+"*/../wavMartin22050/sn0164/sent093.ord"
+redaktør: R a d A g t "26? 
+"*/../wavMartin22050/sn0164/sent094.ord"
+redaktører,: R a d A g t "2:? 6 
+"*/../wavMartin22050/sn0164/sent096.ord"
+regina: R a g "i: n a 
+"*/../wavMartin22050/sn0164/sent097.ord"
+region: R a g i "o:? n 
+"*/../wavMartin22050/sn0164/sent098.ord"
+regulær: R a g u l "E6? 
+"*/../wavMartin22050/sn0164/sent100.ord"
+rekviem: R "a:? k v i E m 
+"*/../wavMartin22050/sn0164/sent101.ord"
+religiøs: R a l i g j "2:? s 
+"*/../wavMartin22050/sn0164/sent102.ord"
+rengøring: R "a: n g %96? e N 
+"*/../wavMartin22050/sn0164/sent136.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0164/sent148.ord"
+selvtilfreds: s "E l t e f R %a s 
+"*/../wavMartin22050/sn0167/sent005.ord"
+ren: R "a:? n 
+"*/../wavMartin22050/sn0167/sent074.ord"
+bredt: b R "a d 
+"*/../wavMartin22050/sn0167/sent086.ord"
+respons: R a s b "6 n? s 
+"*/../wavMartin22050/sn0167/sent093.ord"
+skrevet.: s g R "a: v @ D 
+"*/../wavMartin22050/sn0167/sent133.ord"
+reelt: R a "E l? d 
+"*/../wavMartin22050/sn0168/sent031.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0168/sent115.ord"
+brev: b R "a w? 
+"*/../wavMartin22050/sn0168/sent116.ord"
+repertoire.: R a b E6 t o "A: 
+"*/../wavMartin22050/sn0168/sent120.ord"
+regler: R "a:? l 6 
+"*/../wavMartin22050/sn0168/sent126.ord"
+allerede: "a l @ R %a: D @ 
+"*/../wavMartin22050/sn0168/sent131.ord"
+vredet: v R "a: D @ D 
+"*/../wavMartin22050/sn0168/sent147.ord"
+angreb,: "a n g R %a:? b 
+"*/../wavMartin22050/sn0169/sent112.ord"
+rengjorte: R "a: n g j %o6? d @ 
+"*/../wavMartin22050/sn0170/sent006.ord"
+erindrer: e R "a n? d R 6 
+"*/../wavMartin22050/sn0170/sent079.ord"
+rene: R "a: n @ 
+"*/../wavMartin22050/sn0171/sent060.ord"
+refleksioner: R a f l E g S "o:? n 6 
+"*/../wavMartin22050/sn0171/sent061.ord"
+regionalnyt: R a g i o n "a:? l n %y d 
+"*/../wavMartin22050/sn0171/sent062.ord"
+reportage: R a p Q t "a: S @ 
+"*/../wavMartin22050/sn0172/sent070.ord"
+vreden: v R "a: D @ n 
+"*/../wavMartin22050/sn0172/sent076.ord"
+begreb: b e g R "a:? b 
+"*/../wavMartin22050/sn0172/sent083.ord"
+registreringseditoren.: R a g i s d R "e6? e N s e d i t %Q: 6 n 
+"*/../wavMartin22050/sn0173/sent158.ord"
+grev: g R "a w 
+"*/../wavMartin22050/sn0173/sent159.ord"
+præcisere.: p R a s i s "e:? 6 
+"*/../wavMartin22050/sn0173/sent160.ord"
+uskrevne: "u s g R %a w? n @ 
+regler.: R "a:? l 6 
+"*/../wavMartin22050/sn0174/sent021.ord"
+dressingen: d R "a s %e N? @ n 
+"*/../wavMartin22050/sn0174/sent124.ord"
+inspirerende.: e n s b i R "a:? 6 n @ 
+"*/../wavMartin22050/sn0174/sent135.ord"
+reddet: R "a D @ D 
+"*/../wavMartin22050/sn0175/sent019.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0175/sent022.ord"
+respekt: R a s b "E g d 
+"*/../wavMartin22050/sn0175/sent050.ord"
+florerer.: f l o R "a:? 6 
+"*/../wavMartin22050/sn0175/sent121.ord"
+stress: s d R "a s 
+"*/../wavMartin22050/sn0175/sent129.ord"
+renlighed: R "a: n l i h %e D? 
+"*/../wavMartin22050/sn0175/sent130.ord"
+renæssance: R a n @ s "A N s @ 
+"*/../wavMartin22050/sn0176/sent005.ord"
+rent.: R "a:? n d 
+"*/../wavMartin22050/sn0176/sent020.ord"
+retorisk,: R a t "o6? i s g 
+"*/../wavMartin22050/sn0176/sent025.ord"
+spredte: s b R "a: d @ 
+"*/../wavMartin22050/sn0176/sent085.ord"
+skizofreni.: s g i d s o f R a n "i:? 
+"*/../wavMartin22050/sn0176/sent092.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0177/sent029.ord"
+resultatet.: R a s u l t "a:? d @ D 
+"*/../wavMartin22050/sn0177/sent050.ord"
+regeringen: R a g "e:? R e N? @ n 
+"*/../wavMartin22050/sn0177/sent065.ord"
+forurener.: f Q u R "a:? n 6 
+"*/../wavMartin22050/sn0177/sent093.ord"
+kredser: k R "a: s 6 
+"*/../wavMartin22050/sn0177/sent124.ord"
+frede.: f R "a: D @ 
+"*/../wavMartin22050/sn0178/sent013.ord"
+reaktion: R a A g S "o:? n 
+"*/../wavMartin22050/sn0178/sent080.ord"
+revet: R "a:? v @ D 
+"*/../wavMartin22050/sn0178/sent119.ord"
+tilbered: t "e l b @ R %a D? 
+"*/../wavMartin22050/sn0179/sent011.ord"
+rene.: R "a: n @ 
+"*/../wavMartin22050/sn0179/sent148.ord"
+ubeskrevne.: "u b e s g R %a w? n @ 
+"*/../wavMartin22050/sn0180/sent003.ord"
+revurdering.: R "a v u6 d %e6? e N 
+"*/../wavMartin22050/sn0180/sent135.ord"
+regimets: R a S "i: m @ D s 
+"*/../wavMartin22050/sn0180/sent141.ord"
+grebet: g R "a b @ D 
+"*/../wavMartin22050/sn0181/sent030.ord"
+kreativ: k R "a: a t %i w? 
+"*/../wavMartin22050/sn0181/sent031.ord"
+republikker: R a p u b l "i g 6 
+"*/../wavMartin22050/sn0181/sent038.ord"
+vred.: v R "a D? 
+"*/../wavMartin22050/sn0181/sent063.ord"
+rent: R "a:? n d 
+"*/../wavMartin22050/sn0181/sent079.ord"
+frustreret: f R u s d R "a:? 6 D 
+"*/../wavMartin22050/sn0181/sent145.ord"
+fredag: f R "a:? d a 
+"*/../wavMartin22050/sn0182/sent015.ord"
+skrev: s g R "a w? 
+"*/../wavMartin22050/sn0182/sent050.ord"
+ren: R "a:? n 
+"*/../wavMartin22050/sn0182/sent051.ord"
+vennekreds.: v "E n @ k R %a:? s 
+"*/../wavMartin22050/sn0182/sent054.ord"
+reder.: R "a: D 6 
+"*/../wavMartin22050/sn0182/sent055.ord"
+reder.: R "a: D 6 
+"*/../wavMartin22050/sn0182/sent096.ord"
+inspirerende.: e n s b i R "a:? 6 n @ 
+"*/../wavMartin22050/sn0183/sent040.ord"
+kredsløb: k R "a:? s l %2:? b 
+"*/../wavMartin22050/sn0183/sent061.ord"
+brede: b R "a: D @ 
+"*/../wavMartin22050/sn0183/sent096.ord"
+greb: g R "a:? b 
+"*/../wavMartin22050/sn0184/sent015.ord"
+bred: b R "a D? 
+"*/../wavMartin22050/sn0200/sent026.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0200/sent027.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0200/sent063.ord"
+halvtredsindstyvende: h a l t R "a s e n s t %y: v @ n @ 
+"*/../wavMartin22050/sn0200/sent064.ord"
+tresindstyvende: t R "a s e n s t %y: v @ n @ 
+"*/../wavMartin22050/sn0201/sent090.ord"
+integrerer: e n t @ g R "a:? 6 
+"*/../wavMartin22050/sn0201/sent100.ord"
+beskrev: b e s g R "a w? 
+"*/../wavMartin22050/sn0201/sent104.ord"
+reviderer: R a v i d "e:? 6 
+"*/../wavMartin22050/sn0300/sent035.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0300/sent146.ord"
+landgreven: l "a n g R %a: v @ n 
+"*/../wavMartin22050/sn0301/sent048.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0301/sent140.ord"
+fredens: f R "a D? @ n s 
+"*/../wavMartin22050/sn0302/sent033.ord"
+tres: t R "a s 
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0302/sent071.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0302/sent082.ord"
+halvtreds: h a l t R "a s 
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0302/sent094.ord"
+folkeregister: f "6 l g @ R a g %i s d 6 
+"*/../wavMartin22050/sn0303/sent050.ord"
+halvtreds: h a l t R "a s 
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0303/sent070.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0303/sent079.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0303/sent143.ord"
+halvtreds: h a l t R "a s 
+"*/../wavMartin22050/sn0304/sent001.ord"
+tres: t R "a s 
+"*/../wavMartin22050/sn0304/sent031.ord"
+greve: g R "a: v @ 
+a6: fedtmarmorering, a6: nummerering, a6: nummerering, a6: purer, 

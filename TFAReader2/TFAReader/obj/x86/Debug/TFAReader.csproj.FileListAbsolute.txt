@@ -1,0 +1,26 @@
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\bin\Debug\TFAReader.exe
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\bin\Debug\TFAReader.pdb
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\obj\x86\Debug\TFAReader.Properties.Resources.resources
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\obj\x86\Debug\TFAReader.exe
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\obj\x86\Debug\TFAReader.pdb
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader\TFAReader\obj\x86\Debug\TFAReader.frmTFATool.resources
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.exe
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.pdb
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\bin\Debug\TFAReader.exe
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\bin\Debug\TFAReader.pdb
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.frmTFATool.resources
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.Properties.Resources.resources
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\bin\Debug\TFAReader.exe.config
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.csproj.GenerateResource.Cache
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\bin\Debug\TFAReader.exe.config
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.exe
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.pdb
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\bin\Debug\TFAReader.exe
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\bin\Debug\TFAReader.pdb
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.csprojResolveAssemblyReference.cache
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.frmTFATool.resources
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.Properties.Resources.resources
+C:\a_cwa lokal\Aktuelle projekter\Talesyntese\Nota software\TFAReader2\TFAReader\obj\x86\Debug\TFAReader.csproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+bredt.: b R "e d 
+brevpost.: b R "e w p %6 s d 
+brev.: b R "e w? 
+bred: b R "e D? 
+bredt: b R "e d 
+brev: b R "e w? 
+drev.: d R "e w 
+fremdrift.: f R "E m d R %e f d 
+fred: f R "e D? 
+greb: g R "e:? b 
+grev: g R "e w 
+kredsløb: k R "e:? s l %2:? b 
+kreds: k R "e:? s 
+red: R "e D? 
+redt.: R "e:? d 
+ren: R "e:? n 
+rent: R "e:? n d 
+skrev: s g R "e w? 
+spredt: s b R "e:? d 
+spredt: s b R "e:? d 
+stress.: s d R "e s 
+tres: t R "e s 
+udbredt: "u D b R %e:? d 
+vred.: v R "e D? 

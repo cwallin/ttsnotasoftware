@@ -1,0 +1,118 @@
+derfor	d "E6? ~ f %Q	AB	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:der~for	spell:0	freq:	update:	orig:NSTX=82720|nst:131411	lemma:	id:025125
+derfor	d "e6? ~ f %Q	AB	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:der~for	spell:0	freq:	update:	orig:NSTX=82721|nst:3661	lemma:	id:025126
+
+Ændring:
+
+derfor	d "E6? ~ f %Q slettes i ordbog. rettes i TFA til d "e6? ~ f %Q
+
+Test: herskab
+
+**************************************************************************************************************************************************************************************************************
+
+tre	t R "e:?	RG NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre	spell:0	freq:	update:	orig:NSTX=216354|nst:21214	lemma:	id:157834
+trebindsværk	t R "e: - b e n s - v %E6 g	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+binds+værk	spell:0	freq:	update:2a	orig:NSTX=216358|nst:98819	lemma:	id:157835
+trecifrede	t R "e: - s %i $ f R 6 D $ @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+cifrede	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216359|nst:42096	lemma:	id:157836
+trecifret	t R "e: - s %i $ f R 6 D	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+cifret	spell:0	freq:	update:	orig:NSTX=216360|nst:34271	lemma:	id:157837
+tre-cifret	t R "e: - s %i $ f R 6 D	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+-+cifret	spell:0	freq:	update:2a	orig:NSTX=216346|nst:71489	lemma:	id:157826
+tre-dages	t R "e: - d %a: $ @ s	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+-+dages	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216347|nst:156203	lemma:	id:157827
+tredages	t R "e: - d %a: $ @ s	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dages	spell:0	freq:	update:	orig:NSTX=216361|nst:56122	lemma:	id:157838
+tredele	t R "e: - d %e: $ l @	VB INF AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dele	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216362|nst:221670	lemma:	id:157839
+tredeling	t R "e: - d %e: $ l e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+deling	spell:0	freq:	update:	orig:NSTX=216363|nst:44807	lemma:	id:157840
+tredelingen	t R "e: - d %e: $ l e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:tre+delingen	spell:0	freq:-	update:STTS_20110509_1z_comp	orig:NSTX=BABE:1174245	lemma:	id:209775
+tredelt	t R "e: - d %e:? l d	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+delt	spell:0	freq:	update:	orig:NSTX=216364|nst:71491	lemma:	id:157841
+tredelt	t R "e: - d %e:? l d	PC PRF UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+delt	spell:0	freq:	update:	orig:NSTX=216366|nst:71492	lemma:	id:157843
+tredelte	t R "e: - d %e: l $ d @	VB PRT AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+delte	spell:0	freq:	update:	orig:NSTX=216368|nst:71494	lemma:	id:157845
+tredelte	t R "e: - d %e:? l $ d @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+delte	spell:0	freq:	update:	orig:NSTX=216367|nst:71493	lemma:	id:157844
+tredie	t R "e D $ j @	RG NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredie	spell:0	freq:	update:	orig:NSTX=216369|nst:21218	lemma:	id:157846
+trediedagen	t R "e D $ j @ - d %a:? $ @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredie+dagen	spell:0	freq:	update:2a	orig:NSTX=216370|nst:141780	lemma:	id:157847
+trediedele	t R "e D $ j @ - d %e: $ l @	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredie+dele	spell:0	freq:	update:2a	orig:NSTX=216371|nst:42097	lemma:	id:157848
+trediedels	t R "e D $ j @ - d %e:? l s	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredie+dels	spell:0	freq:	update:	orig:NSTX=216372|nst:141781	lemma:	id:157849
+tredieplads	t R "e D $ j @ - p l %a s	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredie+plads	spell:0	freq:	update:2a	orig:NSTX=216373|nst:141782	lemma:	id:157850
+trediesidst	t R "e D $ j @ - s %i s d	AB	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredie+sidst	spell:0	freq:	update:	orig:NSTX=216374|nst:141783	lemma:	id:157851
+trediestørste	t R "e D $ j @ - s d %96 $ s d @	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredie+største	spell:0	freq:	update:	orig:NSTX=216375|nst:71495	lemma:	id:157852
+tredimensional	t R "e: - d i $ m E n $ S o $ n %a:? l	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dimensional	spell:0	freq:	update:	orig:NSTX=216376|nst:71496	lemma:	id:157853
+tredimensionale	t R "e: - d i $ m E n $ S o $ n %a:? $ l @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dimensionale	spell:0	freq:	update:	orig:NSTX=216377|nst:42098	lemma:	id:157854
+tredimensionalt	t R "e: - d i $ m E n $ S o $ n %a:? l d	JJ POS UTR SIN IND/DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dimensionalt	spell:0	freq:	update:	orig:NSTX=216378|nst:71498	lemma:	id:157855
+tredimensionel	t R "e $ d i $ m @ n $ S o $ n %E l?	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredimensionel	spell:0	freq:	update:	orig:NSTX=216380|nst:87150	lemma:	id:157857
+tredimensionelle	t R "e: - d i $ m E n $ S o $ n %E l? $ @	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dimensionelle	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216381|nst:56123	lemma:	id:157858
+tredimensionelt	t R "e: - d i $ m E n $ S o $ n %E l? d	AB	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dimensionelt	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216382|nst:98821	lemma:	id:157859
+tredimensionelt	t R "e: - d i $ m E n $ S o $ n %E l? d	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tre+dimensionelt	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216383|nst:98820	lemma:	id:157860
+
+Ændring:
+
+Alle t R "e: ændres til t R "a: i ordbog og tfa
+
+Alle t R "e ændres til t R "a: i ordbog og tfa
+
+gælder også "tredje"
+
+tredje	t R "a: D $ j @	RG NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje	spell:0	freq:	update:	orig:NSTX=216398|nst:21221	lemma:	id:157875
+tredjebedste	t R "e D $ j @ - b %E $ s d @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+bedste	spell:0	freq:	update:	orig:NSTX=216399|nst:56124	lemma:	id:157876
+tredjebehandle	t R "e D $ j @ - b e $ h %a n? $ l @	VB INF AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+behandle	spell:0	freq:	update:	orig:NSTX=216400|nst:221674	lemma:	id:157877
+tredjebehandling	t R "e D $ j @ - b e $ h %a n? $ l e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+behandling	spell:0	freq:	update:	orig:NSTX=216401|nst:87151	lemma:	id:157878
+tredjebehandlingen	t R "e D $ j @ - b e $ h %a n? $ l e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+behandlingen	spell:0	freq:	update:	orig:NSTX=216402|nst:56125	lemma:	id:157879
+tredjedag	t R "e D $ j @ - d %a:?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+dag	spell:0	freq:	update:	orig:NSTX=216403|nst:221675	lemma:	id:157880
+tredjedagen	t R "e D $ j @ - d %a:? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+dagen	spell:0	freq:	update:	orig:NSTX=216404|nst:56126	lemma:	id:157881
+tredjedel	t R "e D $ j @ - d %e:? l	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+del	spell:0	freq:	update:	orig:NSTX=216405|nst:21223	lemma:	id:157882
+tredjedele	t R "e D $ j @ - d %e: $ l @	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+dele	spell:0	freq:	update:	orig:NSTX=216407|nst:21224	lemma:	id:157884
+tredjedeles	t R "e D $ j @ - d %e: $ l @ s	NN UTR PLU IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+deles	spell:0	freq:	update:	orig:NSTX=216408|nst:71500	lemma:	id:157885
+tredjedels	t R "e D $ j @ - d %e:? l s	NN UTR SIN IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+dels	spell:0	freq:	update:	orig:NSTX=216409|nst:87152	lemma:	id:157886
+tredjegenerations	t R "e D $ j @ - g e $ n @ $ R A $ S %o:? n s	NN UTR SIN IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:tredje+generations	spell:0	freq:-	update:STTS_20110509_1z_comp	orig:NSTX=BABE:1175033	lemma:	id:209776
+tredjegradsforbrænding	t R "e D $ j @ - g R A D s - f Q ~ b R %E n? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+grads+for~brænding	spell:0	freq:	update:	orig:NSTX=216410|nst:221676	lemma:	id:157887
+tredjegradsforhør	t R "e D $ j @ - g R A D s - f Q ~ h %26?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+grads+for~hør	spell:0	freq:	update:	orig:NSTX=216411|nst:221677	lemma:	id:157888
+tredjegradsligning	t R "e D $ j @ - g R A D s - l %i: $ n e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+grads+ligning	spell:0	freq:	update:	orig:NSTX=216412|nst:221678	lemma:	id:157889
+tredjeinstansbevilling	t R "e D $ j @ - e n $ s d a n? s - b e $ v %i l? $ e N	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+instans+bevilling	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216413|nst:141788	lemma:	id:157890
+tredjeinstansbevillingen	t R "e D $ j @ - e n $ s d a n? s - b e $ v %i l? $ e N? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+instans+bevillingen	spell:0	freq:	update:STTS_20110509_1z_comp	orig:NSTX=216414|nst:141789	lemma:	id:157891
+tredjeland	t R "e D $ j @ - l %a n?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+land	spell:0	freq:	update:	orig:NSTX=216415|nst:71501	lemma:	id:157892
+tredjelande	t R "e D $ j @ - l %a $ n @	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+lande	spell:0	freq:	update:	orig:NSTX=216416|nst:34272	lemma:	id:157893
+tredjemand	t R "e D $ j @ - m %a n?	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+mand	spell:0	freq:	update:	orig:NSTX=216417|nst:56127	lemma:	id:157894
+tredjemanden	t R "e D $ j @ - m %a n? $ @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+manden	spell:0	freq:	update:	orig:NSTX=216418|nst:141790	lemma:	id:157895
+tredjemest	t R "e D $ j @ - m %e:? s d	JJ	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+mest	spell:0	freq:	update:	orig:NSTX=216419|nst:87153	lemma:	id:157896
+tredjepart	t R "e D $ j @ - p %A: d	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+part	spell:0	freq:	update:	orig:NSTX=216420|nst:71502	lemma:	id:157897
+tredjeplads	t R "e D $ j @ - p l %a s	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+plads	spell:0	freq:	update:	orig:NSTX=216421|nst:21225	lemma:	id:157898
+tredjepladsen	t R "e D $ j @ - p l %a $ s @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+pladsen	spell:0	freq:	update:	orig:NSTX=216422|nst:21226	lemma:	id:157899
+tredjepladser	t R "e D $ j @ - p l %a $ s 6	NN UTR PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+pladser	spell:0	freq:	update:	orig:NSTX=216423|nst:141791	lemma:	id:157900
+tredjepris	t R "e D $ j @ - p R %i:? s	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:tredje+pris	spell:0	freq:-	update:20a|STTS_20110509_1z_comp	orig:NSTX=BABE:1175179	lemma:	id:209777
+tredjeprisen	t R "e D $ j @ - p R %i:? $ s @ n	NN UTR SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+prisen	spell:0	freq:	update:	orig:NSTX=216424|nst:111681	lemma:	id:157901
+tredjepræmie	t R "e D $ j @ - p R %e $ m j @	NN UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+præmie	spell:0	freq:	update:	orig:NSTX=216425|nst:221679	lemma:	id:157902
+tredjerangs	t R "e D $ j @ - R %A N? s	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+rangs	spell:0	freq:	update:	orig:NSTX=216426|nst:98822	lemma:	id:157903
+tredjesalen	t R "e D $ j @ - s %a:? $ l @ n	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+salen	spell:0	freq:	update:2a	orig:NSTX=216427|nst:127707	lemma:	id:157904
+tredjeseedede	t R "e D $ j @ - s %i: $ d @ D $ @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:tredje+seedede	spell:0	freq:-	update:STTS_20110509_1z_comp	orig:NSTX=BABE:1175216	lemma:	id:209778
+tredjesidst	t R "e D $ j @ - s %i s d	JJ POS UTR SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+sidst	spell:0	freq:	update:	orig:NSTX=216428|nst:141792	lemma:	id:157905
+tredjesidste	t R "e D $ j @ - s %i $ s d @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+sidste	spell:0	freq:	update:	orig:NSTX=216429|nst:87154	lemma:	id:157906
+tredjestørste	t R "e D $ j @ - s d %96 $ s d @	JJ POS UTR/NEU SIN DEF NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+største	spell:0	freq:	update:	orig:NSTX=216430|nst:21227	lemma:	id:157907
+tredjevalg	t R "e D $ j @ - v %a l?	NN NEU SIN IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:tredje+valg	spell:0	freq:-	update:STTS_20110509_1z_comp	orig:NSTX=BABE:1175245	lemma:	id:209779
+tredjeverdens	t R "e D $ j @ - v %E6 $ d @ n s	NN UTR SIN IND GEN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:-	decomp:tredje+verdens	spell:0	freq:-	update:STTS_20110509_1z_comp	orig:NSTX=BABE:1175255	lemma:	id:209780
+tredjeverdensfolk	t R "e D $ j @ - v E6 $ d @ n s - f %6 l? g	NN	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+verdens+folk	spell:0	freq:	update:2a	orig:NSTX=216431|nst:141793	lemma:	id:157908
+tredjeverdenslande	t R "e D $ j @ - v E6 $ d @ n s - l %a $ n @	NN NEU PLU IND NOM	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:tredje+verdens+lande	spell:0	freq:	update:	orig:NSTX=216432|nst:87155	lemma:	id:157909
+
+
+Test: bt.dk
+
+**************************************************************************************************************************************************************************************************************
+
+Denne linie tilføjes ordbog:
+
+lod	l "o D	VB PRT AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:lod	spell:0	freq:	update:	orig:NSTX=146141|nst:11991	lemma:	id:176401
+
+tfa ændres fra l "6 D til l "o D
+
+Test: Jeg lod mig falde (virker stadig ikke!)
+
+**************************************************************************************************************************************************************************************************************
+
+Denne linie tilføjes ordbog:
+
+have	h "a: $ v @	VB INF AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:have	spell:0	freq:	update:	orig:NSTX=115447|nst:146113	lemma:	id:057625
+
+tag stilling til om den skal beholdes
+
+**************************************************************************************************************************************************************************************************************
+
+bad	b "a D?	VB IMP AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:bad	spell:0	freq:	update:	orig:NSTX=66350|nst:1336	lemma:	id:008875
+
+rettes til:
+
+bad	b "a:? D	VB IMP AKT	garb:0	ortlang:dan	pronlang:dan	code:	pronvar:0	decomp:bad	spell:0	freq:	update:	orig:NSTX=66350|nst:1336	lemma:	id:008875
+
+i ordbog og TFA
