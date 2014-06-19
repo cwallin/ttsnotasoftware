@@ -35,8 +35,19 @@ namespace ExtraLex
 
         private void btnPlay_Click(object sender, EventArgs e)
         {
-            PlaySampa(0);
-            txtSampa.Focus();
+            if(txtSampa.Text !="")
+            {
+                PlaySampa(0);
+                txtSampa.Focus();
+                return;
+            }
+
+            if (txtSuggestion.Text!="")
+            {
+                PlaySampa(1);
+                txtSuggestion.Focus();
+            }
+
         }
 
         private void btnListenSugg_Click(object sender, EventArgs e)
@@ -45,14 +56,6 @@ namespace ExtraLex
             txtSuggestion.Focus();
         }
 
-        private void SmallTestSub()//Husk at fjerne igen
-        {
-            string X = "test";
-            if(X=="ff")
-            {
-                MessageBox.Show(X);
-            }
-        }
 
         private void PlaySampa(int SAMPAMode)
         {
@@ -63,8 +66,6 @@ namespace ExtraLex
             string Spell = cmbSpell.Text;
             string Stress = cmbStress.Text;
             string SampaWord = "";
-
-            SmallTestSub();
 
             if(SAMPAMode==0)
             {

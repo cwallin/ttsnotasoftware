@@ -151,7 +151,7 @@ namespace ExtraLex
 
                 if (AudioText == "")
                 {
-                    txtSampa.Text = "**********";
+                    txtSampa.Text = "*********";
                 }
                 else
                 {

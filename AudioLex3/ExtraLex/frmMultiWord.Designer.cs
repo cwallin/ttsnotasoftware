@@ -88,7 +88,7 @@
             // 
             // btnDictionary
             // 
-            this.btnDictionary.Location = new System.Drawing.Point(126, 57);
+            this.btnDictionary.Location = new System.Drawing.Point(121, 58);
             this.btnDictionary.Name = "btnDictionary";
             this.btnDictionary.Size = new System.Drawing.Size(93, 23);
             this.btnDictionary.TabIndex = 5;
@@ -108,7 +108,7 @@
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(126, 269);
+            this.btnSave.Location = new System.Drawing.Point(112, 270);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(122, 23);
             this.btnSave.TabIndex = 7;
